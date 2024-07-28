@@ -1,0 +1,1001 @@
+﻿TrendID,ProductGroupID,TrendDate,SalesVolume,MarketShare,Competitor,PriceTrend,DemandForecast,CustomerFeedback,MarketingSpend,SalesGrowthRate
+1,10,8/10/2024,40969,26.04,Competitor Computer,16.31,1833,Very positive feedback,7989.62,2.25
+2,24,10/9/2023,16257,29,Competitor Watch,19.12,2047,Mixed feedback,7681.29,3.11
+3,88,9/15/2024,21063,25.89,Competitor Watch,19.19,1842,Positive feedback,7801.45,4.61
+4,94,11/15/2023,29353,28.24,Competitor Latop,15.6,1967,Mixed feedback,7439.79,4.01
+5,78,6/23/2023,14959,28.63,Competitor Watch,18.96,2192,Mixed feedback,9914.55,3.43
+6,60,1/29/2023,25554,29.72,Competitor Phone,18.13,1885,Negative feedback,7035.54,3.56
+7,54,3/29/2023,47699,29.63,Competitor Latop,16.06,2140,Very positive feedback,7262.47,2.67
+8,17,12/25/2023,22836,24.54,Competitor Latop,18.11,1818,Very positive feedback,9607.88,2.24
+9,71,11/26/2023,17589,27.18,Competitor Computer,15.86,1670,Negative feedback,9377.86,4.64
+10,96,8/8/2024,26288,30.76,Competitor Computer,15,1765,Very positive feedback,9099.72,4.9
+11,62,4/19/2023,46780,27.56,Competitor Latop,14.72,1831,Very positive feedback,8311.69,2.5
+12,42,6/19/2023,26960,30.84,Competitor Watch,16.91,2107,Very positive feedback,8882.54,3.79
+13,81,12/12/2023,29447,26.73,Competitor Computer,16.53,2190,Positive feedback,9707.61,1.18
+14,42,10/21/2023,41747,25.77,Competitor Watch,15.14,1751,Negative feedback,9683.28,3.3
+15,71,11/3/2023,23120,28.22,Competitor Phone,18.89,1937,Negative feedback,9842.9,3.02
+16,28,9/30/2024,25575,23.38,Competitor Computer,14.97,2124,Very positive feedback,8989.31,2.97
+17,58,8/17/2024,37741,25.58,Competitor Watch,16.67,1728,Very positive feedback,9289.97,1.43
+18,18,4/6/2023,36868,24.56,Competitor Phone,15.46,1643,Positive feedback,9086.78,1.87
+19,53,2/15/2023,18070,24.81,Competitor Phone,15.97,1995,Negative feedback,8473.65,1.86
+20,62,6/24/2023,41706,23.06,Competitor Computer,15.05,1856,Negative feedback,9068.6,2.85
+21,76,3/1/2023,49842,27.89,Competitor Phone,15.05,1707,Positive feedback,8387.39,3.29
+22,10,8/19/2023,13558,28.1,Competitor Watch,16.85,1986,Negative feedback,7906.91,2.42
+23,95,4/5/2023,21475,23.76,Competitor Latop,16.55,2196,Mixed feedback,7681.53,2.26
+24,72,6/9/2023,30129,23.82,Competitor Computer,14.73,2041,Very positive feedback,8580.01,3.17
+25,16,3/28/2023,41747,28.57,Competitor Latop,15.89,1674,Negative feedback,7557.33,3.11
+26,60,8/15/2024,44719,29.44,Competitor Computer,18.81,1779,Negative feedback,7934.7,2.15
+27,29,10/4/2023,19192,28.95,Competitor Computer,17.8,1777,Mixed feedback,7354.7,2.99
+28,83,1/24/2023,23292,27.05,Competitor Computer,16.75,2084,Positive feedback,8077.9,2.88
+29,21,9/15/2024,20812,27.02,Competitor Phone,16.14,1729,Positive feedback,9868.82,3.2
+30,67,10/25/2023,11237,29.03,Competitor Latop,16.75,2186,Positive feedback,8230.08,4.46
+31,9,5/10/2023,16336,30.84,Competitor Computer,16.66,2027,Mixed feedback,8276.83,1.82
+32,15,10/22/2023,37006,28.68,Competitor Watch,15.18,1797,Mixed feedback,7289.16,2.77
+33,35,4/23/2024,17429,24.52,Competitor Phone,15.52,1782,Mixed feedback,8099.31,4.97
+34,57,8/31/2024,36511,27.96,Competitor Computer,16.98,1665,Positive feedback,9126.14,1.07
+35,48,9/5/2024,46477,26.19,Competitor Computer,15.27,1832,Negative feedback,7937.45,3.47
+36,33,7/1/2024,43418,24.19,Competitor Computer,17.25,1675,Very positive feedback,8138.3,3.39
+37,5,1/13/2024,36238,29.89,Competitor Latop,16.63,2117,Mixed feedback,7881.55,1.49
+38,65,6/20/2024,49255,23.6,Competitor Computer,14.88,2090,Negative feedback,9765,3.67
+39,78,12/15/2023,15266,29.69,Competitor Watch,17.85,1924,Mixed feedback,7041.53,4.48
+40,16,8/17/2023,39246,24.94,Competitor Computer,15.97,1651,Positive feedback,9018.54,3.59
+41,19,2/4/2023,35119,27.41,Competitor Watch,17.83,1846,Negative feedback,9713.9,1.18
+42,100,6/1/2023,33545,25.04,Competitor Computer,14.78,1862,Very positive feedback,9723.22,3.15
+43,40,9/3/2024,41520,24.13,Competitor Watch,17.76,1939,Negative feedback,8080.65,1.9
+44,14,2/9/2023,39167,28.23,Competitor Watch,18.76,2110,Mixed feedback,9558.61,2.44
+45,66,9/28/2023,20778,28.85,Competitor Phone,15.06,1788,Positive feedback,9647.81,4.99
+46,17,8/3/2024,42058,23.38,Competitor Latop,15.73,1699,Positive feedback,7703.15,4.05
+47,45,8/19/2023,27635,26.74,Competitor Watch,18.06,1628,Mixed feedback,8346.39,2.93
+48,27,5/31/2024,16734,28.23,Competitor Watch,17.67,2020,Very positive feedback,7799.47,2.43
+49,80,2/11/2023,13647,29.4,Competitor Latop,15.72,1897,Mixed feedback,7805.87,2.81
+50,9,11/3/2023,13623,29.36,Competitor Phone,17.91,1615,Positive feedback,9366.76,1.15
+51,43,5/18/2023,21226,23.68,Competitor Computer,17.32,1767,Positive feedback,9813.79,1.95
+52,27,9/6/2024,42135,30.84,Competitor Phone,15.38,1724,Very positive feedback,7718.15,1.85
+53,91,12/7/2023,44493,29.55,Competitor Watch,15.65,1920,Mixed feedback,9354.74,3.05
+54,5,1/24/2024,48475,26.52,Competitor Phone,18.96,1667,Very positive feedback,8195.68,2.22
+55,66,1/16/2024,13521,26.13,Competitor Computer,18.81,1799,Negative feedback,8197.45,2.59
+56,70,3/9/2023,48670,28.24,Competitor Watch,18.04,1619,Negative feedback,8577.9,1.16
+57,31,3/31/2023,49907,26.7,Competitor Watch,18.85,2004,Positive feedback,9206.92,1.78
+58,50,2/3/2024,20952,30.48,Competitor Watch,15.27,1767,Positive feedback,7779.66,4.06
+59,83,2/15/2023,20414,25.68,Competitor Phone,15.1,2003,Very positive feedback,9863,1.08
+60,18,1/19/2024,39148,27.32,Competitor Watch,14.68,2154,Mixed feedback,8892.1,3.74
+61,16,8/23/2023,27361,29.26,Competitor Latop,14.58,1785,Very positive feedback,7777.8,1.72
+62,78,8/8/2024,14718,23.68,Competitor Computer,15.63,1657,Negative feedback,7732.71,2.04
+63,25,10/16/2023,32670,29.16,Competitor Latop,16.16,1799,Very positive feedback,9781.84,2.93
+64,65,8/17/2023,23181,28.2,Competitor Computer,18.4,2109,Negative feedback,8853.23,2.87
+65,77,9/4/2024,28500,30.81,Competitor Computer,18.46,1856,Very positive feedback,8449.9,2.72
+66,51,10/2/2023,48629,24.38,Competitor Phone,15.05,1608,Positive feedback,8590.45,1.08
+67,16,7/9/2023,14850,24.36,Competitor Computer,17.4,1606,Mixed feedback,9075.11,4.61
+68,38,11/4/2023,33900,28.3,Competitor Computer,17.53,1994,Positive feedback,9614.71,3.67
+69,32,5/11/2024,46533,23.66,Competitor Latop,17.46,1855,Mixed feedback,8694.24,3.01
+70,60,7/15/2024,47127,27.09,Competitor Watch,14.91,2106,Mixed feedback,7296.67,3.6
+71,20,1/28/2024,26332,25.73,Competitor Computer,15.56,1885,Positive feedback,9246.19,2.9
+72,27,9/9/2024,37950,27.65,Competitor Computer,15.53,1633,Negative feedback,7171.53,4
+73,59,4/6/2024,17205,23.89,Competitor Watch,17.63,1921,Very positive feedback,7434.08,3.26
+74,30,1/30/2023,32761,24.51,Competitor Phone,15.43,1713,Mixed feedback,8290.43,2.08
+75,15,8/20/2023,24135,27.88,Competitor Watch,19,1736,Negative feedback,7018.73,3.4
+76,29,3/31/2024,35982,27.81,Competitor Watch,16.14,1853,Positive feedback,8430.61,4.86
+77,16,5/1/2023,32078,27.07,Competitor Watch,18.61,1977,Mixed feedback,7323.78,2.39
+78,66,11/8/2023,13199,27.51,Competitor Latop,15.42,2174,Positive feedback,8573.67,1.83
+79,64,4/17/2023,17854,27.27,Competitor Phone,18.72,1929,Positive feedback,8416.79,1.06
+80,89,8/5/2023,21212,30.82,Competitor Computer,18.76,1930,Positive feedback,9192.92,3.01
+81,68,1/15/2023,37723,30.28,Competitor Phone,18.94,2190,Very positive feedback,7238.67,3.19
+82,14,3/7/2024,44667,24.26,Competitor Phone,16.23,2081,Mixed feedback,8630.33,3.83
+83,76,1/18/2023,15784,26.02,Competitor Phone,18.9,1884,Very positive feedback,9968.71,3.03
+84,29,9/30/2024,45009,25.26,Competitor Computer,16.7,1878,Positive feedback,9267.9,1.66
+85,2,2/24/2024,49252,26.24,Competitor Computer,18.85,2073,Negative feedback,7094.84,3.68
+86,1,6/29/2023,27339,25.7,Competitor Watch,18.73,2017,Negative feedback,9170.19,4.32
+87,4,8/16/2024,16546,27.86,Competitor Watch,15.88,2032,Positive feedback,8743.59,4.23
+88,84,4/26/2023,30530,23.45,Competitor Phone,17.25,1751,Negative feedback,7796.44,2.91
+89,73,9/30/2024,29809,25.74,Competitor Computer,14.8,2191,Negative feedback,8493.22,3.15
+90,40,1/15/2024,10950,24.68,Competitor Computer,16.3,2089,Mixed feedback,9465.49,4.61
+91,31,5/19/2023,13761,28,Competitor Watch,15.96,1995,Mixed feedback,8740.67,3.63
+92,47,9/28/2024,32003,27.06,Competitor Computer,16.75,2088,Very positive feedback,8672.84,1.44
+93,92,10/5/2023,37236,26.11,Competitor Phone,15.71,1638,Negative feedback,7040.63,2.82
+94,81,4/29/2024,32291,30.17,Competitor Watch,16.12,1693,Positive feedback,9284.52,2.19
+95,18,8/4/2023,32472,26.96,Competitor Computer,18.12,2009,Very positive feedback,7133.07,1.02
+96,47,3/2/2023,15990,26.71,Competitor Latop,19.1,2145,Very positive feedback,8130.15,1.55
+97,85,5/20/2023,47848,24.33,Competitor Latop,16.35,2104,Negative feedback,9770.64,2.02
+98,97,5/19/2023,30681,27.07,Competitor Computer,17.11,1913,Very positive feedback,7555.06,3.89
+99,26,12/27/2023,47988,25.73,Competitor Computer,16.18,1853,Negative feedback,9826.67,3.17
+100,11,8/9/2023,47711,26.28,Competitor Watch,16.49,1859,Positive feedback,7057.73,2.2
+101,36,5/16/2023,16384,22.97,Competitor Phone,14.96,2036,Mixed feedback,8257.61,1.39
+102,62,4/14/2024,29402,26.51,Competitor Watch,18.13,2018,Negative feedback,8133.31,3.5
+103,68,8/22/2023,18676,30.67,Competitor Computer,19.17,2113,Mixed feedback,7603.29,1.85
+104,44,3/14/2024,39978,28.95,Competitor Phone,19.15,1891,Very positive feedback,8649.24,1.18
+105,72,4/17/2024,21075,29.25,Competitor Latop,16.76,1982,Positive feedback,9056.32,1.27
+106,46,1/26/2024,31193,24.31,Competitor Latop,18.25,2001,Mixed feedback,8747,2.63
+107,88,5/27/2023,47251,29.71,Competitor Phone,17.32,1804,Positive feedback,8575.47,3.28
+108,73,9/25/2024,30265,23.81,Competitor Latop,18.97,1821,Positive feedback,9329.9,3.08
+109,96,1/7/2024,47748,24.14,Competitor Latop,18.56,1766,Positive feedback,8919.23,2.74
+110,68,7/31/2023,40220,27.94,Competitor Watch,14.66,1915,Negative feedback,9924.74,2.97
+111,54,10/24/2023,16583,27.05,Competitor Latop,18.46,1793,Mixed feedback,7933.7,2.05
+112,53,10/15/2023,17093,24.22,Competitor Phone,19.13,1777,Negative feedback,7793.9,4.25
+113,70,2/20/2024,26145,25.92,Competitor Phone,16.53,1796,Positive feedback,9163.84,4.31
+114,4,3/27/2023,38650,25.89,Competitor Phone,16.6,1643,Positive feedback,8833.34,1.48
+115,11,6/25/2024,42881,25.81,Competitor Latop,17.88,1748,Very positive feedback,7564.54,1.14
+116,76,2/11/2024,37098,26.5,Competitor Computer,17.27,1940,Negative feedback,7357.73,2.49
+117,12,8/6/2024,36397,24.17,Competitor Computer,17.39,2156,Negative feedback,9191.07,3.74
+118,93,3/30/2024,11135,26.33,Competitor Computer,14.56,1637,Positive feedback,8815.73,4.79
+119,88,4/10/2024,43949,28.58,Competitor Watch,15.46,1626,Very positive feedback,8725.91,2.11
+120,76,10/17/2023,35240,29.09,Competitor Latop,17.44,1709,Mixed feedback,8113.5,4.62
+121,34,2/13/2023,14553,25.67,Competitor Latop,16.75,1786,Mixed feedback,9407.13,1.17
+122,1,3/13/2023,25754,27.55,Competitor Watch,16.96,1715,Very positive feedback,7106.04,2.92
+123,47,5/1/2024,22534,25.24,Competitor Latop,16.25,1712,Mixed feedback,7750.54,2.68
+124,91,2/1/2023,28145,25.39,Competitor Computer,16.06,1957,Mixed feedback,9303.84,4.61
+125,3,4/22/2024,38838,25.68,Competitor Phone,19.2,1694,Very positive feedback,8001.56,3.75
+126,11,10/9/2023,47681,28.17,Competitor Latop,15.06,1831,Negative feedback,7595.81,1.73
+127,71,9/19/2023,17397,30.36,Competitor Watch,16.15,1621,Positive feedback,9002.73,4.08
+128,41,3/5/2024,15893,29.78,Competitor Phone,16.48,1937,Mixed feedback,7283.93,4.77
+129,30,4/19/2024,43626,27.68,Competitor Latop,17.85,2198,Very positive feedback,7864.1,2.27
+130,57,5/31/2024,28659,23.76,Competitor Watch,19.12,1626,Positive feedback,7497.64,2.22
+131,84,3/19/2024,13814,23.99,Competitor Computer,15.13,2040,Positive feedback,7398.58,2.29
+132,75,10/5/2023,24338,26.62,Competitor Phone,14.86,2151,Very positive feedback,9166.33,3.73
+133,4,10/30/2023,32646,23.95,Competitor Latop,16.7,2044,Positive feedback,7163.79,3.63
+134,52,4/6/2023,16055,25.69,Competitor Phone,15.8,1943,Very positive feedback,8470.55,1.96
+135,67,3/26/2023,32473,24.83,Competitor Watch,18.71,1663,Positive feedback,8289.63,3.85
+136,99,3/2/2023,36304,29.87,Competitor Phone,16.14,1911,Mixed feedback,9392.61,4.67
+137,14,4/6/2023,36272,24.44,Competitor Latop,17.22,1947,Negative feedback,9835.1,1.42
+138,63,7/19/2023,10306,29.29,Competitor Watch,17.02,1972,Very positive feedback,9729.04,2.59
+139,3,8/22/2024,22568,29.73,Competitor Watch,18.74,1916,Very positive feedback,7888.88,3.27
+140,45,8/13/2023,17465,30.32,Competitor Phone,18.88,2118,Very positive feedback,7702.79,3.38
+141,64,2/22/2024,23228,29.59,Competitor Phone,18.37,2189,Negative feedback,9701.53,2.97
+142,84,11/5/2023,20476,30.58,Competitor Latop,14.73,2141,Positive feedback,9068.98,2.68
+143,12,10/15/2023,19140,30.59,Competitor Phone,18.76,1857,Negative feedback,7890.88,2.42
+144,20,3/7/2024,14245,23,Competitor Watch,14.9,1716,Mixed feedback,8871.17,1.32
+145,70,5/19/2024,45637,23.89,Competitor Phone,17.22,1786,Very positive feedback,9037.69,3.61
+146,76,8/9/2023,24703,28.55,Competitor Computer,14.95,1940,Mixed feedback,8904.81,3.67
+147,57,2/5/2024,47939,30.02,Competitor Computer,16.13,2075,Mixed feedback,7175.45,3.61
+148,91,8/2/2023,38788,22.87,Competitor Watch,14.87,1835,Mixed feedback,9892.61,4.78
+149,77,9/19/2023,39619,25.11,Competitor Watch,17.56,1699,Positive feedback,8023.14,1.25
+150,64,6/30/2023,48527,30.55,Competitor Watch,14.95,1978,Negative feedback,8998.8,1.03
+151,37,5/5/2024,47567,29.77,Competitor Watch,15.6,1878,Very positive feedback,9280.16,2.8
+152,76,8/5/2024,19306,23.44,Competitor Phone,18.45,1686,Negative feedback,7215.57,4.89
+153,63,9/19/2023,24588,29.9,Competitor Computer,15.5,2030,Negative feedback,9732.76,3.78
+154,56,9/12/2024,36622,26.72,Competitor Watch,16.7,1814,Positive feedback,9852.07,1.77
+155,74,11/9/2023,22778,25.86,Competitor Computer,17.55,1695,Negative feedback,9747.86,3.92
+156,69,4/21/2024,44273,25.79,Competitor Latop,19.05,1945,Mixed feedback,8190.66,1.58
+157,77,7/19/2023,30836,26.88,Competitor Latop,15.38,1930,Mixed feedback,8261.52,2.72
+158,37,9/11/2024,42732,30.63,Competitor Phone,18.33,1880,Positive feedback,9742.12,4.23
+159,30,11/8/2023,40798,28.83,Competitor Phone,15.07,1695,Very positive feedback,8227.66,3.2
+160,53,12/13/2023,37569,25.22,Competitor Phone,15.98,1887,Very positive feedback,7736.38,3.61
+161,83,2/11/2023,47998,25.07,Competitor Latop,18.08,1841,Very positive feedback,7826.54,2.08
+162,60,9/20/2023,32707,23.77,Competitor Computer,17.02,2048,Very positive feedback,7736.89,3.65
+163,54,5/7/2024,10007,27.62,Competitor Phone,17.09,2163,Positive feedback,7728.39,4.75
+164,10,5/17/2024,38193,30.81,Competitor Watch,16.63,2008,Negative feedback,8933.04,1.6
+165,89,6/4/2024,15538,23.46,Competitor Computer,17.25,1995,Negative feedback,9265.04,3.85
+166,14,2/17/2024,27063,25.93,Competitor Computer,16.31,2130,Positive feedback,9361.99,1.56
+167,59,10/7/2024,26220,25.74,Competitor Phone,15.33,2077,Mixed feedback,9235.76,2.97
+168,92,3/18/2024,33621,30.99,Competitor Phone,15.93,1708,Positive feedback,9499.24,2.75
+169,43,6/15/2024,47523,26.4,Competitor Phone,14.54,2059,Very positive feedback,8438.77,4.41
+170,73,6/4/2023,24831,29.75,Competitor Watch,15.11,2098,Positive feedback,9499.42,4.89
+171,30,3/23/2023,30199,24.53,Competitor Phone,14.89,2172,Mixed feedback,8146.33,4.38
+172,85,1/31/2023,23119,29.2,Competitor Computer,17.91,1690,Negative feedback,8725.05,2.7
+173,21,3/23/2023,10339,28.24,Competitor Watch,15.09,1623,Negative feedback,7043.8,3.03
+174,14,2/13/2024,41227,23.05,Competitor Computer,17.28,1958,Negative feedback,8090.53,1.32
+175,69,7/20/2024,40918,29.32,Competitor Latop,18.24,2070,Positive feedback,9013.88,4.44
+176,42,5/14/2024,43632,28.65,Competitor Latop,16.37,1778,Negative feedback,9114.05,3.21
+177,6,5/8/2024,18229,30.49,Competitor Phone,16.48,1685,Very positive feedback,7860.32,2.38
+178,88,8/9/2024,34335,27.13,Competitor Latop,17.01,2085,Mixed feedback,8201.84,3.13
+179,59,5/28/2023,37591,24.57,Competitor Watch,19.17,1868,Very positive feedback,8392.9,3.41
+180,61,11/30/2023,23586,30.57,Competitor Phone,14.65,1907,Negative feedback,7334.33,1.16
+181,14,1/17/2024,16281,28.86,Competitor Watch,17.75,2197,Mixed feedback,7530.18,4.87
+182,48,1/18/2024,26610,24.28,Competitor Latop,16.6,1828,Mixed feedback,7839.31,3.24
+183,55,8/27/2023,14604,24.58,Competitor Latop,14.6,1755,Very positive feedback,7185,1.35
+184,83,9/9/2023,31065,28.78,Competitor Watch,17.89,1764,Very positive feedback,9250.38,3.19
+185,85,4/19/2023,38719,27.72,Competitor Phone,17.2,1688,Negative feedback,9136.07,2.69
+186,50,12/3/2023,26067,22.88,Competitor Phone,15.08,1896,Mixed feedback,8916.26,4.26
+187,94,3/17/2024,43925,29.85,Competitor Watch,17.3,1859,Mixed feedback,7954.79,3.27
+188,35,7/25/2024,38622,26.08,Competitor Watch,17.42,1969,Positive feedback,9457.7,4.75
+189,2,11/6/2023,13213,26.75,Competitor Phone,17.25,1859,Negative feedback,7994.37,1.52
+190,96,8/3/2023,15199,24.94,Competitor Latop,18.36,1678,Mixed feedback,9191.66,1.75
+191,1,8/10/2024,32748,28.91,Competitor Latop,15.41,1716,Negative feedback,9641.23,4.92
+192,20,10/6/2024,25317,26.57,Competitor Computer,18.1,1836,Negative feedback,8112.9,3.17
+193,19,5/14/2024,30740,28.74,Competitor Phone,16.23,1839,Very positive feedback,7663.17,3.6
+194,72,2/14/2023,34065,27.74,Competitor Watch,18.33,1949,Negative feedback,8541.74,1.29
+195,59,11/14/2023,16822,29.09,Competitor Phone,17.82,2049,Positive feedback,9487.37,2.75
+196,34,3/13/2023,37533,25.45,Competitor Computer,15.05,1678,Positive feedback,8964.04,4.13
+197,5,1/5/2024,30870,29.1,Competitor Latop,17.59,1824,Positive feedback,7933.33,2.77
+198,82,3/15/2023,22622,29.74,Competitor Latop,16.6,2186,Positive feedback,7621.3,1.12
+199,25,11/1/2023,26150,23.69,Competitor Phone,17.99,1657,Negative feedback,8830.25,3.63
+200,17,7/29/2023,10466,25.91,Competitor Phone,16.66,1953,Mixed feedback,7519.24,3.15
+201,49,7/2/2023,13781,23.14,Competitor Computer,18.92,2018,Positive feedback,8570.03,2.48
+202,76,8/7/2023,17952,24.19,Competitor Phone,17.16,1894,Very positive feedback,7830.96,2.25
+203,98,5/4/2024,36888,30.63,Competitor Phone,16.3,1918,Negative feedback,8702.83,1.29
+204,8,2/17/2024,46694,30.96,Competitor Watch,17.74,2080,Mixed feedback,8662.13,2.54
+205,35,6/12/2023,21091,24.52,Competitor Watch,18.37,1823,Positive feedback,9901.68,2.33
+206,61,4/2/2024,39234,30.34,Competitor Latop,17.47,1928,Positive feedback,7397.23,4.43
+207,41,3/22/2024,34328,30.16,Competitor Computer,15.46,1998,Very positive feedback,9422.31,2.51
+208,76,11/27/2023,34005,26.27,Competitor Watch,15.96,1821,Negative feedback,8811.37,4.12
+209,70,2/25/2023,33061,22.92,Competitor Watch,17.63,1722,Negative feedback,7986.07,4.89
+210,68,8/31/2023,46826,29.18,Competitor Computer,16.11,1848,Very positive feedback,9339.49,2.31
+211,16,3/4/2023,10960,25.62,Competitor Latop,16.71,2052,Very positive feedback,9969.56,1.68
+212,74,7/23/2023,43110,25.43,Competitor Phone,16.84,1769,Very positive feedback,7788.59,4.72
+213,64,7/22/2023,13161,24.07,Competitor Watch,17.54,2091,Very positive feedback,9341.8,2.65
+214,58,12/25/2023,40131,28.47,Competitor Computer,17.12,1711,Positive feedback,8306.52,1.38
+215,37,2/4/2024,43948,26.67,Competitor Phone,17.21,1964,Negative feedback,7499.06,4.22
+216,39,8/30/2023,40984,26.27,Competitor Latop,15.63,1807,Positive feedback,9388.73,3.01
+217,82,10/4/2024,27258,27.6,Competitor Latop,18.72,1929,Very positive feedback,9161.44,4.57
+218,38,2/26/2023,31502,30,Competitor Latop,17.6,2064,Very positive feedback,7932.78,3.27
+219,26,4/26/2024,10003,30.75,Competitor Latop,15.17,1975,Mixed feedback,8122.66,4.34
+220,78,4/18/2024,32552,24.86,Competitor Computer,15.32,2124,Very positive feedback,9648.85,3.69
+221,26,3/12/2024,16757,23.64,Competitor Computer,17.46,2178,Very positive feedback,7117.97,3.63
+222,98,7/14/2024,17704,29.26,Competitor Latop,15.13,1895,Mixed feedback,9083.06,4.96
+223,68,11/15/2023,22034,29.54,Competitor Computer,14.71,1692,Very positive feedback,8819.05,4.87
+224,14,8/17/2024,20187,27.26,Competitor Watch,17.52,1873,Mixed feedback,9996.93,2.64
+225,54,10/11/2023,21638,29.16,Competitor Phone,15.51,1891,Positive feedback,9940.92,1.73
+226,43,1/24/2023,41146,24.76,Competitor Watch,17.87,1791,Positive feedback,9691.37,4.77
+227,68,5/20/2024,11053,28.15,Competitor Phone,19.15,1626,Very positive feedback,7693.35,1.68
+228,9,7/11/2024,45762,29.99,Competitor Watch,15.95,1644,Very positive feedback,9310.32,4.08
+229,54,11/4/2023,48249,26.3,Competitor Watch,18.08,1663,Negative feedback,8426.23,4.5
+230,49,6/19/2023,40790,27.14,Competitor Phone,18.6,1613,Positive feedback,9151.68,3.65
+231,16,8/4/2024,49565,27.47,Competitor Latop,18.46,2154,Mixed feedback,8456.71,2.59
+232,90,8/10/2023,41254,26.23,Competitor Watch,19.08,1609,Very positive feedback,8370.67,1.48
+233,72,10/31/2023,47848,26.87,Competitor Watch,16.21,1801,Mixed feedback,8760.92,4.46
+234,85,12/26/2023,16764,23.13,Competitor Computer,15.73,1895,Negative feedback,9616.14,2.8
+235,14,12/13/2023,17192,30.88,Competitor Computer,16.78,2138,Mixed feedback,9502.86,3.01
+236,7,5/31/2024,24493,28.17,Competitor Latop,19.03,1902,Mixed feedback,8161.61,3.54
+237,94,2/9/2024,18538,30.48,Competitor Phone,18.02,1619,Very positive feedback,8190.44,4.01
+238,75,5/26/2024,32868,25.81,Competitor Computer,15.93,1707,Negative feedback,8686.14,1.81
+239,33,9/9/2023,17580,27.38,Competitor Computer,15.07,1988,Mixed feedback,8959.31,3.01
+240,47,6/5/2023,27054,23.51,Competitor Watch,15.24,2029,Negative feedback,8890.23,1.37
+241,22,12/9/2023,46338,29.22,Competitor Watch,18.58,1949,Very positive feedback,9203.07,4.37
+242,45,1/12/2024,17397,30.38,Competitor Computer,18.34,1726,Positive feedback,7306.66,1.28
+243,81,1/21/2023,40716,24.25,Competitor Watch,17.33,1862,Negative feedback,9851.74,3.15
+244,81,3/10/2024,28757,28.49,Competitor Latop,15.45,2200,Negative feedback,7992.45,1.04
+245,56,9/6/2023,19163,28.63,Competitor Latop,14.96,1653,Negative feedback,9578.03,1.96
+246,28,12/14/2023,39602,27.36,Competitor Latop,18.79,1981,Mixed feedback,8511.42,4.42
+247,93,6/21/2024,36295,29.9,Competitor Computer,15.96,2145,Negative feedback,9079.9,3.19
+248,25,1/23/2024,43279,27,Competitor Latop,18.81,1931,Positive feedback,9567.81,4.7
+249,88,2/16/2024,13020,25.04,Competitor Phone,15.8,2041,Negative feedback,9410.72,2.04
+250,14,11/24/2023,21714,23.46,Competitor Latop,15.69,1907,Positive feedback,9990.03,1.07
+251,95,9/7/2024,18215,26.7,Competitor Phone,18.35,2096,Very positive feedback,7064.84,3.83
+252,84,11/30/2023,46882,26.13,Competitor Watch,15.88,1865,Positive feedback,8669.68,3.89
+253,19,7/15/2024,26793,26.81,Competitor Computer,15.58,2037,Mixed feedback,8809.3,2.59
+254,22,7/8/2023,19215,23.33,Competitor Phone,17.01,1766,Very positive feedback,8513.83,4.04
+255,43,6/3/2024,13542,27.59,Competitor Watch,14.59,1916,Negative feedback,8769.35,2.39
+256,47,5/18/2023,38763,30.77,Competitor Latop,14.87,1677,Mixed feedback,8466.84,4.23
+257,54,2/27/2023,38909,25.26,Competitor Latop,18.35,2105,Mixed feedback,8764.28,2.91
+258,86,9/13/2024,46389,30.32,Competitor Computer,15.73,1955,Mixed feedback,8640.35,4.16
+259,37,5/11/2023,30997,27.17,Competitor Latop,15.34,1972,Positive feedback,9419.64,1.39
+260,98,2/5/2024,47734,27.41,Competitor Computer,17.61,1906,Very positive feedback,7231.31,1.09
+261,18,6/23/2024,31668,26.32,Competitor Phone,14.98,1902,Negative feedback,8326.13,4.76
+262,47,2/16/2023,23468,23.01,Competitor Phone,15.82,2055,Negative feedback,7999.94,2.71
+263,32,8/12/2024,22134,25.31,Competitor Phone,19.03,1938,Positive feedback,8634.97,3.39
+264,4,8/11/2024,48679,29.12,Competitor Computer,16.12,1657,Mixed feedback,9064.76,1.25
+265,77,1/18/2023,32500,24.02,Competitor Watch,17.17,1697,Mixed feedback,8006.65,4.87
+266,51,8/3/2024,18454,30.79,Competitor Latop,14.97,2072,Negative feedback,7902.76,3.72
+267,29,3/12/2024,12513,26.25,Competitor Phone,17.6,1984,Negative feedback,8968.39,2.95
+268,35,7/20/2024,30755,23.36,Competitor Latop,16.93,1844,Positive feedback,7882.36,3.59
+269,39,8/14/2023,48728,30.72,Competitor Watch,14.75,1978,Very positive feedback,9618.1,3.08
+270,75,4/5/2024,22416,29.16,Competitor Watch,17.72,1892,Mixed feedback,8978.29,2.34
+271,74,4/5/2024,11684,27.79,Competitor Watch,18.21,1732,Positive feedback,9053.46,4.13
+272,57,2/8/2023,46348,26.96,Competitor Latop,16.67,1616,Negative feedback,9759.82,1.7
+273,64,10/19/2023,18511,23.18,Competitor Phone,16.02,1637,Negative feedback,7621.45,3.26
+274,82,4/27/2024,12075,22.82,Competitor Phone,18.05,2116,Very positive feedback,9541.48,3.92
+275,37,9/27/2024,43023,25.91,Competitor Computer,16.6,1809,Very positive feedback,8850.79,2.18
+276,30,3/23/2024,47938,26.46,Competitor Latop,18.78,2001,Very positive feedback,8052.82,3.16
+277,60,12/30/2023,37366,30.21,Competitor Watch,16.45,2089,Very positive feedback,8737.86,2.68
+278,77,3/17/2024,39730,27.02,Competitor Latop,18.2,1856,Very positive feedback,8471.21,1.36
+279,31,2/14/2023,31857,25.93,Competitor Computer,16.5,1622,Negative feedback,9489.8,1.86
+280,66,7/5/2024,40194,29.82,Competitor Phone,17.91,1962,Very positive feedback,8156.79,2.59
+281,3,3/2/2024,33171,28.55,Competitor Computer,15.6,1834,Mixed feedback,9177.77,3.05
+282,17,1/23/2023,11134,27.13,Competitor Watch,17.06,1769,Positive feedback,7192.14,2.31
+283,29,1/3/2024,45739,29.33,Competitor Computer,15.99,2083,Positive feedback,9274.37,2.73
+284,20,4/11/2024,24838,23.9,Competitor Latop,15.71,2124,Mixed feedback,9944.35,2.86
+285,19,4/11/2023,44685,24.8,Competitor Computer,17.5,2193,Positive feedback,8016.14,3.53
+286,98,3/14/2023,14082,25.04,Competitor Phone,17.79,1756,Very positive feedback,8056.58,3.18
+287,17,11/4/2023,37295,28.4,Competitor Computer,18.64,1772,Positive feedback,8631.42,3.94
+288,75,7/16/2024,27848,30.8,Competitor Phone,18.99,2031,Negative feedback,9389.66,2.62
+289,36,1/29/2023,33640,27.94,Competitor Latop,16.46,1820,Positive feedback,9378.34,3.33
+290,39,7/22/2023,44121,23.67,Competitor Phone,16.89,1944,Mixed feedback,8859.28,4.74
+291,99,10/10/2023,12716,30.19,Competitor Phone,15.77,2065,Mixed feedback,8919.94,3.72
+292,27,7/27/2024,43853,28.37,Competitor Watch,18.65,1738,Negative feedback,7813.94,2.86
+293,43,2/22/2023,20170,23.91,Competitor Computer,17.51,1733,Negative feedback,8387.32,4.53
+294,6,6/1/2024,29145,24.74,Competitor Latop,18.83,1971,Mixed feedback,9873.6,4
+295,16,5/21/2023,45517,26.56,Competitor Phone,15.8,1802,Negative feedback,9546.1,4.22
+296,35,3/8/2023,15461,28,Competitor Computer,15.23,2055,Mixed feedback,8353.44,4.83
+297,69,1/29/2024,29126,25.72,Competitor Phone,14.79,1758,Very positive feedback,8203.15,2.72
+298,83,2/20/2024,38093,24.7,Competitor Latop,19.04,1752,Very positive feedback,7090.47,3.96
+299,34,12/8/2023,20973,25.35,Competitor Watch,19.23,1657,Negative feedback,7126.08,4.48
+300,1,8/5/2023,35511,24.77,Competitor Latop,16.99,1877,Positive feedback,9008.71,1.8
+301,41,1/22/2024,35245,24.77,Competitor Latop,16.31,2019,Mixed feedback,8996.19,4.14
+302,25,10/24/2023,32995,27.99,Competitor Latop,16.58,1834,Mixed feedback,7103.99,3.02
+303,39,10/20/2023,32790,28.38,Competitor Computer,19,1894,Very positive feedback,7776.92,3.17
+304,4,9/3/2024,25172,28.77,Competitor Latop,16.25,2070,Very positive feedback,7631.03,4.32
+305,27,2/22/2024,48170,24.72,Competitor Latop,14.88,1845,Mixed feedback,7224.78,3.73
+306,72,6/15/2024,42662,26.21,Competitor Watch,15.62,1995,Very positive feedback,9743.53,4.6
+307,80,6/14/2023,31644,29.36,Competitor Phone,18.23,1708,Very positive feedback,9201.73,4.73
+308,24,12/20/2023,41061,27.54,Competitor Phone,15.28,1766,Negative feedback,8191.65,2.81
+309,79,7/28/2023,26064,27.94,Competitor Latop,17.99,1665,Very positive feedback,8206.24,2.41
+310,11,3/7/2023,36117,28.32,Competitor Watch,14.56,2101,Mixed feedback,7314.67,4.26
+311,42,9/1/2023,21102,26.61,Competitor Phone,15.53,1742,Very positive feedback,8017.63,1.19
+312,65,8/27/2023,47763,25.33,Competitor Computer,15.43,2030,Positive feedback,8040.39,1.75
+313,46,12/6/2023,12737,29.64,Competitor Watch,15.6,1818,Negative feedback,9915.76,4.05
+314,14,2/5/2024,30632,22.92,Competitor Phone,18.86,2113,Mixed feedback,7218.82,3.36
+315,45,5/15/2024,19932,26.47,Competitor Watch,18.31,1876,Very positive feedback,8046.55,3.1
+316,36,9/18/2024,48093,23.87,Competitor Phone,18.55,1973,Mixed feedback,7802.85,2.99
+317,30,7/23/2023,14831,25.61,Competitor Phone,15.82,1792,Mixed feedback,9243.98,4.79
+318,1,6/11/2023,31818,24.09,Competitor Computer,17.31,1825,Very positive feedback,9464.82,2.52
+319,40,5/12/2024,12433,29.66,Competitor Latop,16.61,2102,Negative feedback,9455.12,2.32
+320,100,7/5/2024,30958,28.12,Competitor Phone,15.57,1798,Very positive feedback,9969.59,2.1
+321,35,8/1/2024,27425,22.84,Competitor Computer,15.27,2069,Negative feedback,7792.25,3.3
+322,44,5/27/2024,31835,30.21,Competitor Latop,18.3,1789,Mixed feedback,8758.3,1.77
+323,85,2/1/2023,45706,23.38,Competitor Phone,19.2,2155,Positive feedback,9066.3,3.72
+324,22,6/3/2023,23872,26.61,Competitor Computer,15.26,1753,Positive feedback,7982.47,3.56
+325,46,7/14/2023,21381,29.53,Competitor Latop,15.5,1695,Very positive feedback,8789.95,2.38
+326,59,6/6/2023,18203,23.19,Competitor Phone,16.93,1639,Mixed feedback,8507.95,1.7
+327,69,8/26/2024,45410,26.54,Competitor Latop,17.34,1989,Positive feedback,7426.05,3.17
+328,36,3/26/2023,30166,23.29,Competitor Phone,15.24,1969,Mixed feedback,8993.7,2.58
+329,82,3/28/2023,11661,23.63,Competitor Latop,14.95,1880,Negative feedback,8771.29,4.64
+330,16,3/8/2023,40871,23.72,Competitor Computer,16.79,2143,Positive feedback,8430.31,1.33
+331,47,1/8/2024,36860,24.88,Competitor Watch,15.92,1665,Negative feedback,8652.02,1.85
+332,65,9/22/2023,36810,30.78,Competitor Phone,19.18,1703,Mixed feedback,8186.58,3.72
+333,93,10/18/2023,22503,26,Competitor Computer,18.47,2119,Very positive feedback,9422.84,3.25
+334,61,4/2/2024,30440,29.88,Competitor Computer,17.9,2016,Very positive feedback,7524,1.65
+335,92,4/16/2024,35068,27.64,Competitor Latop,17.89,1963,Mixed feedback,8899.17,3.93
+336,2,5/3/2024,28365,24.46,Competitor Computer,15.62,1802,Very positive feedback,7634.52,4.74
+337,42,2/9/2023,40774,30.39,Competitor Latop,15.09,1837,Negative feedback,9279.81,4.21
+338,86,9/29/2024,21186,26.23,Competitor Watch,16.13,2086,Mixed feedback,7368.67,2.42
+339,37,5/19/2024,41860,29.02,Competitor Computer,16.72,1666,Mixed feedback,9638.09,1.73
+340,66,2/2/2024,24136,24.08,Competitor Computer,14.88,1974,Very positive feedback,7647.6,3.42
+341,85,5/29/2023,29107,27.81,Competitor Latop,17.9,2009,Mixed feedback,9216.68,4.34
+342,12,1/17/2024,37198,24.95,Competitor Latop,19.24,1928,Mixed feedback,9607.9,1.18
+343,28,10/8/2023,35330,29.32,Competitor Watch,16.74,1920,Very positive feedback,9094.83,2.27
+344,36,8/31/2023,32437,22.88,Competitor Watch,15.54,1907,Very positive feedback,9412.17,4.76
+345,62,10/9/2024,35467,23.42,Competitor Phone,16.92,1748,Mixed feedback,7699.12,2.73
+346,54,3/9/2024,10982,26.59,Competitor Latop,16.24,1865,Negative feedback,9332.91,3.43
+347,51,12/18/2023,14441,27.01,Competitor Latop,17.71,1625,Very positive feedback,7305.84,4.64
+348,40,3/9/2024,14269,24.66,Competitor Computer,17.99,1727,Negative feedback,8742.45,3.51
+349,63,12/27/2023,40505,28.36,Competitor Latop,17.48,1812,Mixed feedback,8440.75,4.86
+350,84,9/12/2023,21037,25.72,Competitor Latop,16.36,2191,Very positive feedback,7869.45,3.09
+351,60,2/22/2023,42858,24.01,Competitor Phone,15.36,2079,Positive feedback,9372.43,1.32
+352,28,4/10/2024,38594,26.07,Competitor Latop,16.6,2111,Positive feedback,9347.74,3
+353,21,2/29/2024,11656,29.61,Competitor Phone,15.57,1802,Very positive feedback,9517.23,3.68
+354,25,11/2/2023,11338,26.25,Competitor Latop,17.41,2021,Negative feedback,9287.54,2.86
+355,36,6/7/2023,31770,29.1,Competitor Latop,14.8,1756,Very positive feedback,7198.25,5
+356,51,7/31/2024,34245,24.62,Competitor Watch,14.93,1848,Negative feedback,8594.8,4.93
+357,76,4/4/2024,45458,23.21,Competitor Computer,15.07,1762,Positive feedback,7310.3,3.28
+358,7,12/30/2023,35682,24.56,Competitor Latop,18.46,2084,Mixed feedback,8218.62,3.46
+359,62,6/25/2023,24023,30.38,Competitor Watch,17.62,1779,Positive feedback,7321.86,4.88
+360,87,5/10/2024,40138,29.51,Competitor Watch,15.06,1812,Mixed feedback,7794.92,4.84
+361,26,1/12/2024,14646,30.37,Competitor Watch,15.85,1730,Positive feedback,7157.15,2.98
+362,19,2/21/2023,11810,23.08,Competitor Phone,17.51,1698,Very positive feedback,7581.07,4.65
+363,24,9/6/2023,21543,26.35,Competitor Phone,16.4,1972,Positive feedback,9165.11,1.2
+364,85,7/29/2023,49032,26.33,Competitor Phone,19.18,2055,Negative feedback,8210.51,1.94
+365,34,2/27/2024,25779,30.43,Competitor Latop,18.87,2036,Positive feedback,7303.48,2.07
+366,72,5/26/2024,40672,28.33,Competitor Latop,19.15,2133,Mixed feedback,8649.24,2.74
+367,39,3/14/2023,22934,30.77,Competitor Computer,14.73,1831,Positive feedback,7523.56,2.17
+368,60,8/16/2024,35800,24.01,Competitor Latop,18.91,1628,Positive feedback,7945.58,1.06
+369,27,5/26/2023,31862,25.04,Competitor Phone,16.84,1868,Positive feedback,8196.02,2.84
+370,56,7/26/2023,44323,28.94,Competitor Watch,18.99,1617,Very positive feedback,7039.1,2.88
+371,45,7/12/2024,12578,27.04,Competitor Latop,18.67,1604,Positive feedback,8148.71,2.6
+372,87,2/7/2024,14521,29.67,Competitor Phone,17.25,2117,Negative feedback,7774.82,1.5
+373,36,1/27/2023,17541,22.81,Competitor Latop,17.69,1782,Mixed feedback,8711.81,3.25
+374,72,8/4/2023,44981,29.94,Competitor Phone,15.35,2044,Mixed feedback,7930.16,1.76
+375,93,8/12/2023,17747,27.61,Competitor Latop,14.88,1919,Very positive feedback,9709.46,3.99
+376,64,11/8/2023,31053,30.35,Competitor Watch,18.25,1824,Negative feedback,9408.54,3.29
+377,4,9/19/2023,29461,23.54,Competitor Watch,16.95,2041,Positive feedback,9901.36,2.69
+378,85,3/31/2023,47519,25.24,Competitor Phone,17.61,1823,Very positive feedback,9438.2,1.28
+379,56,8/22/2023,25268,30.43,Competitor Watch,18.94,1804,Negative feedback,9814.84,1.62
+380,94,12/6/2023,34862,24.64,Competitor Computer,18.35,1835,Very positive feedback,8525.95,4.98
+381,61,9/23/2024,31934,27.54,Competitor Phone,18,2102,Positive feedback,8528.62,1.33
+382,55,6/2/2023,39626,26.99,Competitor Phone,17.83,1789,Very positive feedback,8068.1,1.73
+383,66,3/29/2024,43517,22.91,Competitor Latop,16.82,2101,Positive feedback,8304.57,3.43
+384,15,3/20/2023,13343,29.5,Competitor Latop,15.53,1750,Mixed feedback,9531.55,3.08
+385,81,3/8/2024,37136,28.39,Competitor Watch,15.26,1608,Negative feedback,8312.79,3.47
+386,70,6/17/2023,44016,30.57,Competitor Phone,16.09,1930,Very positive feedback,7713.28,1.57
+387,87,6/15/2023,14430,26.02,Competitor Watch,18.92,1674,Negative feedback,7613.63,3.78
+388,22,1/24/2024,29968,30.19,Competitor Latop,18.17,1898,Mixed feedback,7423.29,1.36
+389,65,3/18/2023,45842,29.68,Competitor Computer,17.89,2135,Very positive feedback,7349.16,2.69
+390,74,7/1/2023,37246,25.48,Competitor Latop,15.27,1702,Positive feedback,8613.57,1.52
+391,2,4/22/2024,47940,27.97,Competitor Watch,16.6,2014,Mixed feedback,9133.93,4.8
+392,25,10/5/2024,37538,30.37,Competitor Latop,14.68,1678,Very positive feedback,7955.9,3.13
+393,64,9/21/2024,39672,30.83,Competitor Phone,16.9,1763,Negative feedback,9745.37,4.13
+394,57,7/29/2023,28572,26.67,Competitor Watch,15.25,1682,Positive feedback,9388.42,2.37
+395,79,1/1/2024,16838,29.09,Competitor Watch,15.69,2129,Negative feedback,9755.24,1.96
+396,55,11/14/2023,14539,27.82,Competitor Phone,18.68,1682,Mixed feedback,8539.46,1.46
+397,53,5/7/2023,42420,25.13,Competitor Latop,17.09,1949,Negative feedback,8163.87,4
+398,95,8/30/2023,14785,27.08,Competitor Latop,19.24,1853,Mixed feedback,8790.82,1.09
+399,59,5/15/2024,17955,29.15,Competitor Computer,18.89,1656,Mixed feedback,8837.53,1.02
+400,9,2/9/2024,42120,28.37,Competitor Watch,15.41,2176,Very positive feedback,9662.88,3.01
+401,73,2/9/2023,37883,25,Competitor Latop,18.46,1889,Negative feedback,8648.22,4.41
+402,89,2/22/2023,22212,29.01,Competitor Latop,17.16,1934,Negative feedback,7785.39,1.73
+403,2,4/20/2024,13387,30.86,Competitor Watch,18.41,1909,Positive feedback,9102.27,2.83
+404,2,8/17/2024,12190,26.79,Competitor Watch,16.77,2142,Very positive feedback,8527.11,1.61
+405,37,3/22/2024,19809,25.57,Competitor Computer,17.71,1759,Negative feedback,8286.32,3.53
+406,62,11/25/2023,10410,28.03,Competitor Latop,16.11,1869,Mixed feedback,8363.29,2.73
+407,50,10/8/2024,47049,22.85,Competitor Phone,19.18,1993,Very positive feedback,8861.99,3
+408,20,9/6/2024,39479,30.02,Competitor Computer,17.67,1643,Negative feedback,9438.79,4.75
+409,4,3/3/2023,45647,27.61,Competitor Latop,18.97,1760,Very positive feedback,9717.64,3.05
+410,42,10/12/2023,16774,24.98,Competitor Phone,18.5,1695,Very positive feedback,9793.69,1.65
+411,30,6/18/2023,18370,23.08,Competitor Latop,16.89,2053,Negative feedback,9628.7,3.64
+412,99,2/3/2024,34990,27.91,Competitor Latop,14.96,1885,Negative feedback,8811.1,3.93
+413,47,2/14/2024,13191,29.47,Competitor Phone,18.75,2110,Negative feedback,9699.05,1.86
+414,10,6/4/2024,12904,24.28,Competitor Phone,18.97,2066,Mixed feedback,7641.5,4.42
+415,40,5/14/2023,10039,25.76,Competitor Latop,17.55,1611,Very positive feedback,7246.76,1.83
+416,4,10/15/2023,20356,26.59,Competitor Latop,17.65,1951,Very positive feedback,7961.32,3
+417,75,9/29/2023,42250,28.02,Competitor Watch,15.66,2162,Positive feedback,7248.95,4.21
+418,69,10/6/2023,29012,24.35,Competitor Latop,16.99,1758,Mixed feedback,7897.47,3
+419,25,4/8/2023,36601,25.32,Competitor Latop,15.68,2185,Negative feedback,8415.88,4.32
+420,65,8/7/2024,11727,26.05,Competitor Latop,17.34,2082,Very positive feedback,8054.68,2.03
+421,84,8/25/2024,17401,24.49,Competitor Phone,16.67,2012,Negative feedback,8159.85,3.25
+422,75,10/1/2023,44485,25.58,Competitor Computer,16.09,1737,Very positive feedback,8786.09,2.4
+423,70,3/12/2024,12088,29.02,Competitor Computer,18.65,1823,Mixed feedback,8792.48,4.3
+424,28,4/10/2023,19048,25.51,Competitor Phone,18.81,1839,Positive feedback,7949.96,4.61
+425,61,11/2/2023,31290,23.03,Competitor Computer,16.06,2029,Very positive feedback,7541.05,1.86
+426,7,5/22/2023,18973,29.19,Competitor Latop,18.08,2121,Very positive feedback,9295.5,4.4
+427,32,3/24/2024,26581,25.39,Competitor Latop,16.16,2095,Mixed feedback,8988.66,1.72
+428,12,5/24/2024,27676,28.41,Competitor Latop,15.18,2123,Negative feedback,7944.14,4.16
+429,16,2/28/2023,13030,29.06,Competitor Computer,16.21,1908,Very positive feedback,8098.29,2.89
+430,83,5/16/2023,49695,26.94,Competitor Phone,18.13,1613,Positive feedback,8980.71,3.61
+431,52,6/17/2023,21223,26.45,Competitor Phone,15.83,2028,Very positive feedback,9642.88,1.2
+432,61,6/18/2023,31580,28.55,Competitor Watch,18.6,1823,Mixed feedback,9147.33,4.75
+433,1,9/20/2023,11318,24.97,Competitor Phone,16.26,1988,Positive feedback,7783.8,1.31
+434,98,12/28/2023,20524,27.62,Competitor Watch,15.09,1885,Negative feedback,9056.79,3.73
+435,89,9/28/2023,17703,24.13,Competitor Phone,19.06,2023,Positive feedback,9235.9,1.77
+436,47,4/10/2024,44726,27.48,Competitor Latop,16.27,1863,Very positive feedback,7138.14,3.84
+437,74,3/10/2024,20091,27.76,Competitor Computer,16.11,1656,Very positive feedback,9815.61,2.86
+438,92,4/9/2024,24842,26.98,Competitor Latop,17.77,1820,Positive feedback,9740.54,2.98
+439,21,10/23/2023,36400,27.54,Competitor Computer,15.55,1665,Mixed feedback,8851.47,2.88
+440,2,8/24/2024,48990,28.73,Competitor Latop,18.91,1990,Very positive feedback,7870.44,2.99
+441,19,3/13/2024,49743,23.16,Competitor Latop,18.49,2178,Positive feedback,8138.81,2.52
+442,38,9/20/2023,22885,23.18,Competitor Phone,15.28,2177,Mixed feedback,7927.24,3.46
+443,78,1/25/2023,27486,28.61,Competitor Watch,17.85,1661,Very positive feedback,7028.06,1.35
+444,29,4/25/2023,13269,27.53,Competitor Latop,15.05,1831,Very positive feedback,9141.8,1.75
+445,18,11/28/2023,30271,28.48,Competitor Computer,15.69,1760,Very positive feedback,9287.3,1.24
+446,63,8/10/2024,42548,26.69,Competitor Computer,15.01,1811,Negative feedback,8259.27,2.15
+447,33,5/6/2024,28372,23.17,Competitor Phone,16.16,1840,Positive feedback,9085.65,4.55
+448,79,2/26/2024,42061,30.19,Competitor Latop,16.34,1604,Very positive feedback,8902.8,2.55
+449,55,12/2/2023,43093,27.99,Competitor Computer,17.57,2017,Mixed feedback,8681.96,2.78
+450,68,6/17/2023,43525,25.05,Competitor Watch,14.74,1867,Positive feedback,9788.33,3.25
+451,87,10/6/2023,32132,23.67,Competitor Latop,17.1,1981,Very positive feedback,7309.47,2.02
+452,83,8/15/2023,15626,26.02,Competitor Computer,15.82,2140,Mixed feedback,7173.32,1.92
+453,45,9/23/2024,19451,23.08,Competitor Phone,14.61,2118,Positive feedback,7565.6,4.89
+454,5,7/19/2024,25963,24.9,Competitor Watch,18.28,2086,Negative feedback,9204.6,3.97
+455,13,7/6/2024,12471,29.01,Competitor Watch,18.49,2138,Mixed feedback,8504.43,2.58
+456,92,4/1/2024,22716,24.39,Competitor Phone,17.76,1802,Positive feedback,7114.64,1.28
+457,26,12/28/2023,34333,26.82,Competitor Latop,16.4,1775,Very positive feedback,7159.38,3.67
+458,48,8/14/2024,31341,24.1,Competitor Computer,18.93,1715,Very positive feedback,9334.22,2.53
+459,15,7/8/2024,16575,24.92,Competitor Phone,17.37,1600,Negative feedback,9976.26,2.96
+460,45,10/13/2023,24192,30.77,Competitor Watch,17.31,1952,Positive feedback,7017.31,3.55
+461,92,9/14/2024,36111,25.77,Competitor Computer,18.01,1737,Mixed feedback,7974.57,2.16
+462,57,12/16/2023,15493,26.09,Competitor Phone,18.1,1874,Negative feedback,8385.69,1.49
+463,82,3/10/2024,34916,27.91,Competitor Phone,14.55,1803,Mixed feedback,7915.71,1.81
+464,8,8/14/2024,41114,30.77,Competitor Watch,14.71,1710,Negative feedback,7049.75,1.02
+465,36,6/2/2023,22188,23.09,Competitor Latop,17.24,1601,Very positive feedback,9535.37,4.51
+466,81,6/29/2024,43389,30.58,Competitor Computer,17.04,1808,Negative feedback,7891.56,1.05
+467,80,2/1/2024,27449,28.36,Competitor Watch,18.82,1864,Positive feedback,7647.25,1.21
+468,78,2/25/2023,42299,26.46,Competitor Latop,16.41,1682,Very positive feedback,7111.09,1.92
+469,75,2/26/2024,26902,28.6,Competitor Latop,14.64,1909,Mixed feedback,7594.04,2.29
+470,71,4/9/2024,20029,24.58,Competitor Computer,18.27,1978,Positive feedback,8721.2,2.47
+471,47,3/11/2024,16270,27.65,Competitor Watch,18.66,1899,Positive feedback,7962,1.9
+472,31,4/23/2023,17220,27.85,Competitor Computer,19.2,1977,Negative feedback,8669.73,4.62
+473,7,1/20/2024,32008,27.62,Competitor Watch,18.57,1791,Mixed feedback,9533.6,3.29
+474,88,4/4/2023,17557,25.82,Competitor Latop,18.52,1662,Positive feedback,9920.67,3.86
+475,35,12/29/2023,42658,25.42,Competitor Computer,18.88,1921,Negative feedback,8124.81,1.66
+476,52,9/2/2023,44208,27.12,Competitor Latop,19.2,1777,Negative feedback,9762.47,2.12
+477,59,4/4/2023,39161,25.51,Competitor Latop,18.15,2053,Negative feedback,8293.6,1.82
+478,80,7/13/2023,25466,24.97,Competitor Computer,17.87,1815,Mixed feedback,8804.38,2.22
+479,76,6/8/2023,25515,27.38,Competitor Phone,18.36,1843,Very positive feedback,8975.51,2.96
+480,95,6/16/2024,29905,27.52,Competitor Phone,18.87,1617,Negative feedback,8738.83,1.7
+481,95,10/8/2023,14350,29.69,Competitor Computer,15.62,2129,Positive feedback,8544.04,4.29
+482,98,12/7/2023,22413,26.83,Competitor Latop,15.18,1932,Negative feedback,9828.91,4.17
+483,72,5/27/2024,44305,30.34,Competitor Phone,17.47,1733,Negative feedback,8311.62,2.02
+484,49,9/28/2024,37007,25.15,Competitor Computer,15.44,1611,Very positive feedback,9097.72,4.64
+485,7,8/11/2024,12422,23.83,Competitor Phone,18.14,1987,Negative feedback,7127.65,2.82
+486,18,6/2/2023,45202,23.51,Competitor Latop,17.93,1845,Very positive feedback,9325.19,2.57
+487,6,4/1/2023,49308,25.56,Competitor Phone,17.71,2064,Positive feedback,8238.08,4.41
+488,60,9/7/2023,13926,28.42,Competitor Phone,16.47,1666,Positive feedback,8685.25,2.15
+489,21,3/26/2024,32623,24.18,Competitor Watch,17.02,1850,Negative feedback,9228.04,1.8
+490,87,3/21/2024,39556,24.34,Competitor Computer,18.37,1977,Mixed feedback,9434.42,2.15
+491,1,5/6/2023,34221,30.44,Competitor Latop,17.05,1887,Very positive feedback,8606.86,3.21
+492,24,2/14/2023,38765,26.3,Competitor Latop,19.1,1719,Negative feedback,7813.81,2.27
+493,11,2/3/2024,24305,29.75,Competitor Latop,18.95,2172,Negative feedback,8383.36,2.93
+494,20,1/7/2024,36212,24.65,Competitor Latop,17.94,1934,Positive feedback,9248.37,2.34
+495,41,2/28/2023,42680,27.99,Competitor Watch,15.88,2182,Very positive feedback,7483.85,1.1
+496,55,2/3/2023,39051,29.18,Competitor Phone,15.6,2077,Mixed feedback,9848.63,3.73
+497,9,12/22/2023,38548,25.78,Competitor Latop,17.25,1823,Mixed feedback,9605.22,2.58
+498,99,3/25/2024,33911,26.55,Competitor Latop,15.67,1889,Negative feedback,8963.16,4.53
+499,14,7/25/2024,39650,26.44,Competitor Latop,15.14,1931,Positive feedback,9808.49,2.57
+500,1,3/17/2023,32307,27.59,Competitor Watch,17.24,1963,Mixed feedback,8030.43,1.78
+501,76,5/4/2023,33960,26.72,Competitor Watch,17.27,2120,Positive feedback,9017.58,2.5
+502,6,5/10/2024,31865,25.01,Competitor Watch,16.19,2160,Very positive feedback,9560.42,2.18
+503,16,4/2/2023,37173,26.56,Competitor Latop,19.2,1707,Negative feedback,7538.44,1.25
+504,15,8/9/2023,29850,30.02,Competitor Computer,18.85,1753,Mixed feedback,8757.57,1.32
+505,17,11/24/2023,10676,28.31,Competitor Phone,17.84,1877,Positive feedback,8157.93,1.3
+506,59,10/8/2024,37990,26.41,Competitor Watch,16.75,1906,Positive feedback,9540.53,4.11
+507,26,6/27/2024,31234,27.23,Competitor Watch,17.91,1749,Very positive feedback,8147.47,4.54
+508,21,12/1/2023,26570,25.71,Competitor Computer,18,2123,Negative feedback,8869.75,4.45
+509,67,9/29/2023,45993,29.81,Competitor Latop,19.25,2114,Negative feedback,8922.75,2.55
+510,93,3/7/2024,34380,24.15,Competitor Computer,15.28,1740,Positive feedback,9958.47,3.49
+511,24,2/3/2023,28772,30,Competitor Computer,17.47,1914,Mixed feedback,7427.58,4.2
+512,64,5/27/2023,30718,25,Competitor Computer,18.55,1638,Very positive feedback,7035.05,3.78
+513,61,8/22/2024,34943,28.08,Competitor Latop,18.32,1769,Negative feedback,9857.81,2.01
+514,27,4/10/2024,35522,26,Competitor Computer,15.38,2091,Negative feedback,9699.3,1.71
+515,92,9/15/2024,35214,23.09,Competitor Watch,16.15,2130,Positive feedback,8332.03,1.58
+516,24,7/19/2023,22619,28.81,Competitor Phone,16.7,1981,Negative feedback,8236.42,4.81
+517,72,9/3/2024,23861,26.11,Competitor Watch,16.95,2065,Very positive feedback,8061.46,4.12
+518,18,11/25/2023,18791,25.68,Competitor Latop,17.4,2131,Very positive feedback,9829.7,4.24
+519,27,7/2/2023,39528,26.56,Competitor Computer,17.7,2183,Very positive feedback,8946.44,3.2
+520,85,10/1/2024,45456,30.64,Competitor Watch,14.87,2131,Positive feedback,8223.52,4.44
+521,61,11/29/2023,24407,28.07,Competitor Watch,17.38,2171,Positive feedback,8698.45,2.66
+522,63,4/17/2024,12970,29.11,Competitor Latop,18.29,2132,Very positive feedback,9725.44,2.2
+523,69,3/29/2024,31561,23.78,Competitor Watch,18.76,2075,Mixed feedback,9490.05,4.33
+524,23,10/15/2023,25378,23.47,Competitor Phone,17.1,1944,Positive feedback,7320.73,2.28
+525,10,4/28/2024,12012,24.51,Competitor Latop,15.34,1857,Mixed feedback,8180.01,4.54
+526,51,8/17/2024,43937,24.94,Competitor Watch,16.39,1605,Mixed feedback,8584.93,4.25
+527,82,8/6/2024,36050,25.86,Competitor Computer,15.12,1689,Positive feedback,7043.2,3.48
+528,58,9/16/2023,49342,29.62,Competitor Watch,16.93,1693,Very positive feedback,7405.4,2.7
+529,66,8/29/2024,29304,25.98,Competitor Phone,18.09,2180,Positive feedback,9449.03,4.71
+530,86,11/8/2023,39223,28.68,Competitor Computer,14.98,1720,Mixed feedback,9828.48,3.64
+531,87,6/30/2024,31472,23.48,Competitor Latop,16.18,1708,Very positive feedback,7350.78,1.38
+532,47,8/9/2024,31843,27.32,Competitor Watch,17.87,1685,Mixed feedback,8955.4,1.84
+533,49,7/4/2023,47656,28.21,Competitor Latop,16.67,1632,Negative feedback,7734.1,3.69
+534,32,7/22/2024,44737,29.47,Competitor Watch,16.05,2060,Positive feedback,7594.67,2.56
+535,31,9/17/2023,17497,27.37,Competitor Watch,17.08,2173,Mixed feedback,9410.02,1.21
+536,85,11/11/2023,40633,24.67,Competitor Latop,17.83,1625,Very positive feedback,7610.37,4.43
+537,21,2/4/2024,46713,27.75,Competitor Latop,14.65,2145,Mixed feedback,8449.03,4.22
+538,16,6/22/2023,47877,25.34,Competitor Latop,17.2,2190,Very positive feedback,8760.54,1.27
+539,58,9/1/2024,35704,23.5,Competitor Watch,17.32,1697,Very positive feedback,7924.86,4.02
+540,8,2/23/2024,18239,25.5,Competitor Computer,18.73,1740,Very positive feedback,7190.12,3.88
+541,95,9/5/2023,28566,26.78,Competitor Phone,17.55,2144,Mixed feedback,8124.69,2.41
+542,9,8/9/2023,39457,29.18,Competitor Phone,18.28,1826,Mixed feedback,8244.9,4.69
+543,27,1/6/2024,17551,30.59,Competitor Computer,18.86,1915,Negative feedback,9447.57,2.49
+544,72,11/12/2023,38953,24.31,Competitor Phone,17.79,1739,Mixed feedback,9238.75,1.51
+545,68,2/25/2023,40575,25.01,Competitor Latop,17.66,1922,Negative feedback,9730.07,3.66
+546,71,2/12/2024,42122,26.36,Competitor Phone,16.19,2088,Positive feedback,8506.16,2.72
+547,84,2/7/2023,24067,28.81,Competitor Computer,16.57,1612,Mixed feedback,8631.82,2.68
+548,61,2/15/2024,30323,23.19,Competitor Watch,16.57,2027,Very positive feedback,8474.11,3.9
+549,54,3/31/2024,25306,25.41,Competitor Computer,14.79,2106,Negative feedback,8239.68,3.9
+550,38,11/21/2023,48352,26.27,Competitor Computer,17.09,2043,Positive feedback,9946.76,1.13
+551,99,9/14/2023,43866,23.11,Competitor Latop,18.45,2149,Mixed feedback,9232.58,2.16
+552,3,10/14/2023,46642,25.62,Competitor Phone,18.87,1832,Very positive feedback,9222.92,4.78
+553,24,8/28/2024,48454,29.63,Competitor Phone,16.11,1796,Very positive feedback,8818.11,4.49
+554,95,6/15/2023,43192,29.15,Competitor Computer,17.91,2103,Mixed feedback,8813.45,3.19
+555,71,4/2/2024,40945,23.2,Competitor Computer,16.3,2124,Negative feedback,8751.4,2.69
+556,72,8/23/2023,46658,23.76,Competitor Phone,16.31,2174,Negative feedback,8481.36,4.74
+557,31,8/29/2023,15169,28.08,Competitor Latop,16.94,2136,Very positive feedback,8227.98,3.39
+558,12,1/19/2023,35991,28.09,Competitor Computer,17.65,2052,Very positive feedback,8805.1,2.31
+559,51,7/12/2024,15099,26.16,Competitor Computer,17.43,1649,Very positive feedback,7432.31,2.87
+560,34,10/2/2023,32165,23.51,Competitor Computer,17.39,1965,Negative feedback,9808.37,3.55
+561,75,7/17/2023,43091,29.88,Competitor Phone,18.88,1791,Negative feedback,7454.03,1.63
+562,38,4/27/2023,42162,29.48,Competitor Latop,18.3,1730,Negative feedback,9871.39,1.12
+563,77,8/30/2024,46446,26.36,Competitor Phone,17.91,1920,Negative feedback,7875.69,3.19
+564,48,11/21/2023,30163,28.1,Competitor Latop,16.27,1995,Mixed feedback,7766.1,2.93
+565,79,8/18/2024,34933,27.48,Competitor Phone,18.39,1785,Mixed feedback,8552.53,4.85
+566,56,3/15/2023,23904,25.27,Competitor Watch,17.03,1770,Very positive feedback,7161.45,2.39
+567,67,2/14/2023,44922,27.07,Competitor Watch,19.17,1603,Positive feedback,9558.03,4.47
+568,43,1/17/2024,18291,30.26,Competitor Latop,19.18,2063,Mixed feedback,8644.7,4.99
+569,9,10/25/2023,25512,27.7,Competitor Computer,14.56,1876,Positive feedback,9972.85,3.97
+570,5,9/9/2024,49290,28.52,Competitor Latop,18.68,2108,Positive feedback,9224.85,4.12
+571,77,9/14/2024,16111,30.7,Competitor Phone,18.1,2160,Very positive feedback,9345.27,2.34
+572,29,11/30/2023,35964,23.64,Competitor Latop,18.16,1624,Very positive feedback,7378.23,3.04
+573,94,12/19/2023,29087,27.89,Competitor Phone,17.03,1911,Negative feedback,7941.39,1.72
+574,58,8/7/2023,34315,23.34,Competitor Computer,18.44,1877,Mixed feedback,8847.71,1.11
+575,28,5/28/2023,37722,24.42,Competitor Phone,18.31,1694,Very positive feedback,9286.9,2.84
+576,18,7/9/2023,17997,24.69,Competitor Watch,17.25,1787,Positive feedback,9270.26,3.64
+577,64,6/12/2024,32118,28.41,Competitor Watch,18.14,2163,Mixed feedback,9510.93,1.17
+578,93,11/14/2023,31866,29.85,Competitor Watch,16.63,2122,Positive feedback,7491.92,3.82
+579,39,10/5/2024,33256,29.83,Competitor Latop,16.49,1821,Mixed feedback,8657.05,1.35
+580,22,3/22/2024,47268,30.11,Competitor Computer,18.29,1872,Mixed feedback,8009.48,3.47
+581,32,10/2/2023,48037,25.07,Competitor Watch,15.89,2200,Mixed feedback,9489.16,3.48
+582,90,7/17/2023,35158,30.38,Competitor Latop,15.41,2061,Very positive feedback,9416.82,3.8
+583,89,2/7/2023,44304,23.16,Competitor Latop,16.95,1731,Mixed feedback,8925.92,4.6
+584,39,7/9/2023,33824,27.04,Competitor Watch,18.48,2008,Very positive feedback,8827.35,3.5
+585,31,6/1/2024,23023,26.2,Competitor Computer,14.59,1762,Negative feedback,8496.54,4.56
+586,72,6/25/2024,45214,28.11,Competitor Phone,15.49,1926,Mixed feedback,9721.11,1.69
+587,33,8/12/2024,19515,25.7,Competitor Phone,16.85,2148,Negative feedback,7148.21,1.62
+588,17,2/2/2023,49714,28.65,Competitor Phone,17.95,2111,Positive feedback,7344.93,4.89
+589,80,9/15/2024,45827,24.24,Competitor Phone,19.16,2136,Negative feedback,7191.95,2.64
+590,89,4/17/2023,33145,28.98,Competitor Watch,16.62,1792,Very positive feedback,9048.41,2.49
+591,89,9/2/2024,18687,24.75,Competitor Computer,16.58,1716,Mixed feedback,9381.97,4.82
+592,40,3/17/2023,33732,25.95,Competitor Computer,15.08,1750,Negative feedback,8328.62,1.94
+593,61,2/24/2024,27431,29.66,Competitor Phone,17.57,2128,Negative feedback,8236.95,2.53
+594,70,1/22/2023,35720,24.9,Competitor Watch,16.05,1940,Negative feedback,8549.87,1.44
+595,56,2/7/2023,34369,28.41,Competitor Watch,15.68,1755,Positive feedback,7353.45,2.52
+596,53,9/12/2023,18788,26.86,Competitor Latop,18.54,1610,Mixed feedback,9136.54,1.42
+597,72,2/21/2024,35176,30.12,Competitor Computer,17,2136,Positive feedback,9500.68,1.53
+598,93,5/16/2024,46993,23.45,Competitor Computer,17.25,1881,Positive feedback,9552.39,2.53
+599,9,3/4/2024,35905,23.22,Competitor Phone,16,1798,Negative feedback,7410.97,4.35
+600,95,8/18/2024,21856,26.34,Competitor Computer,15.53,2083,Mixed feedback,7868.67,2.76
+601,31,2/19/2024,32750,28.28,Competitor Phone,18.61,1975,Positive feedback,8487.78,3.72
+602,67,1/30/2023,44244,27.42,Competitor Latop,15.91,1682,Very positive feedback,8882.2,4.4
+603,100,12/17/2023,34473,29.91,Competitor Phone,16.14,2155,Positive feedback,7577.13,2.57
+604,57,11/10/2023,13513,30.28,Competitor Latop,15.67,1722,Very positive feedback,8703.73,1.23
+605,66,3/2/2024,28561,28.47,Competitor Latop,18.86,2046,Negative feedback,9038.45,2.14
+606,90,9/26/2023,31773,27.26,Competitor Watch,15.43,1705,Mixed feedback,9205.16,2.76
+607,7,8/20/2023,35626,29.27,Competitor Watch,16.21,1949,Very positive feedback,8514.45,1.65
+608,27,9/19/2024,35588,30.41,Competitor Watch,16.56,1889,Negative feedback,8136.39,2.19
+609,61,3/3/2024,42580,27.16,Competitor Computer,14.81,1618,Very positive feedback,7594.74,1.25
+610,51,5/5/2023,13261,28.18,Competitor Computer,18.04,1832,Negative feedback,9813.78,4.54
+611,38,2/12/2024,39274,30.11,Competitor Phone,19.22,1845,Mixed feedback,8059.71,2.46
+612,61,8/6/2023,16767,28.71,Competitor Latop,18.19,1951,Negative feedback,9338.83,1.45
+613,59,5/24/2024,45267,26.78,Competitor Computer,16.47,2000,Mixed feedback,7866.68,1.48
+614,22,4/7/2023,46843,29.42,Competitor Watch,15.81,2111,Very positive feedback,7887.18,2.65
+615,44,5/9/2023,37157,30.02,Competitor Watch,18.2,1862,Mixed feedback,7270.9,2.01
+616,30,12/9/2023,10415,24.22,Competitor Watch,17.83,2157,Mixed feedback,8934.86,4.23
+617,73,9/9/2024,47845,28.72,Competitor Latop,17.49,2003,Negative feedback,8878.02,2.59
+618,41,4/6/2023,36789,28.69,Competitor Computer,16.28,1948,Positive feedback,8080.36,1.66
+619,1,12/17/2023,17034,23.89,Competitor Computer,17.76,2061,Positive feedback,7135.79,3.74
+620,96,9/28/2023,15728,23.28,Competitor Phone,17.67,2013,Very positive feedback,9198.22,2.18
+621,37,12/25/2023,35055,28.13,Competitor Computer,14.73,1758,Positive feedback,7897.56,4.36
+622,86,4/12/2024,41676,27.11,Competitor Phone,17.35,2151,Positive feedback,8076.34,1.76
+623,53,12/10/2023,42967,25.72,Competitor Latop,19.12,2091,Positive feedback,9597.11,4.17
+624,61,12/30/2023,46347,24.82,Competitor Computer,17.42,2186,Mixed feedback,8906.75,3.34
+625,62,8/7/2023,18118,26.81,Competitor Computer,16.35,1624,Very positive feedback,8713.97,4.76
+626,60,7/28/2024,30899,28.04,Competitor Computer,18.33,1637,Mixed feedback,8690.34,3.34
+627,47,9/17/2024,18741,23.02,Competitor Computer,17.3,1614,Negative feedback,8892,3.26
+628,67,6/22/2024,49589,30.13,Competitor Watch,14.79,1679,Negative feedback,8551.36,2.86
+629,10,4/23/2023,22985,23.65,Competitor Latop,17.03,1996,Negative feedback,8440.88,2.14
+630,61,9/16/2024,39387,28.87,Competitor Phone,16.67,1834,Positive feedback,9897.66,1.77
+631,46,7/18/2023,23182,30.13,Competitor Computer,15.82,1912,Positive feedback,9417.02,1.07
+632,6,5/11/2023,36467,28.2,Competitor Computer,16.96,1927,Very positive feedback,9723.45,3.72
+633,98,2/7/2024,48246,25.79,Competitor Phone,15.52,1644,Negative feedback,8141.51,1.24
+634,13,10/6/2024,49063,25.02,Competitor Computer,16.99,1816,Positive feedback,9247.39,2.98
+635,51,6/25/2024,45339,30.82,Competitor Computer,14.71,2084,Mixed feedback,7997.3,1.76
+636,43,3/12/2024,28831,27.54,Competitor Watch,18.74,2148,Positive feedback,7370.89,3.09
+637,1,5/31/2024,46619,25.74,Competitor Phone,17.36,1632,Positive feedback,9913.59,4.6
+638,74,9/21/2023,21264,28.79,Competitor Latop,16.88,1619,Negative feedback,8934.51,1.57
+639,73,3/24/2023,15827,25.77,Competitor Latop,14.66,1952,Negative feedback,7616.1,1.46
+640,87,3/14/2023,27317,23.38,Competitor Phone,15.25,1880,Mixed feedback,8813.74,2.2
+641,9,10/26/2023,46974,30.1,Competitor Phone,18.7,1955,Mixed feedback,9957.89,4.32
+642,50,1/26/2024,43317,27.31,Competitor Phone,14.61,2000,Negative feedback,7337.56,4.74
+643,68,10/23/2023,47343,29.94,Competitor Computer,17.68,2192,Negative feedback,7821.7,2.13
+644,30,1/23/2023,47907,23.2,Competitor Computer,17.32,1782,Positive feedback,7640.56,4.41
+645,96,3/29/2024,33357,29.24,Competitor Computer,18.14,1892,Mixed feedback,8316.69,4.17
+646,11,8/30/2023,47636,28.35,Competitor Phone,15.08,1993,Positive feedback,7628.4,4.07
+647,100,8/17/2023,33435,25.03,Competitor Computer,15.76,2107,Negative feedback,7622.15,2.13
+648,50,8/7/2024,11968,29.25,Competitor Computer,17.03,1641,Negative feedback,7704.95,2.91
+649,58,11/10/2023,15235,30.47,Competitor Computer,15.84,1613,Mixed feedback,7746.35,1.93
+650,84,5/15/2023,17131,27.1,Competitor Computer,16.06,1835,Positive feedback,8842.64,2.48
+651,23,8/3/2023,22929,30.75,Competitor Computer,18.71,1821,Negative feedback,9994.76,3.37
+652,32,9/22/2024,15077,27,Competitor Latop,19.07,2141,Very positive feedback,7515.7,2.44
+653,38,3/20/2024,10517,25.15,Competitor Phone,18.35,2137,Very positive feedback,8903.69,1.5
+654,90,10/7/2023,33237,26.11,Competitor Latop,16.95,1960,Positive feedback,7767.85,4.72
+655,56,11/25/2023,43776,24.1,Competitor Latop,17.68,2031,Negative feedback,7219.2,1.39
+656,93,9/25/2024,21077,30.1,Competitor Phone,17.43,1930,Very positive feedback,9755.1,3.22
+657,23,5/5/2023,27410,28.36,Competitor Watch,16.58,1924,Positive feedback,7999.29,1.42
+658,52,7/20/2024,34996,25.6,Competitor Watch,15.99,2161,Positive feedback,7102.18,2.84
+659,84,8/9/2024,18123,30,Competitor Computer,16.65,2046,Very positive feedback,8741.3,1.05
+660,36,3/2/2023,25531,25.44,Competitor Computer,19.11,1928,Negative feedback,8973.38,1.09
+661,72,11/18/2023,33858,25.28,Competitor Watch,15.48,2006,Very positive feedback,9795.94,4.98
+662,72,12/16/2023,38766,29.26,Competitor Phone,16.64,1993,Very positive feedback,9070,1.06
+663,86,3/2/2024,48916,29.66,Competitor Watch,17.54,1715,Negative feedback,9623.37,1.44
+664,13,10/22/2023,45425,27.32,Competitor Phone,16.64,2189,Very positive feedback,9402.56,2.87
+665,8,10/5/2023,28571,26.58,Competitor Computer,17.26,1808,Mixed feedback,7829.07,2.25
+666,59,7/10/2024,40445,29.13,Competitor Latop,17.62,2007,Negative feedback,9593.36,1.82
+667,40,5/16/2024,37034,24.76,Competitor Latop,16.47,2051,Positive feedback,9367.98,1.47
+668,92,4/26/2024,43833,24.58,Competitor Phone,17.7,2152,Negative feedback,7089.54,3.16
+669,19,10/14/2023,19129,29.68,Competitor Watch,17.7,1835,Negative feedback,9547.27,3.01
+670,92,8/22/2023,14274,30.74,Competitor Watch,18.26,2019,Negative feedback,9023.03,1.07
+671,97,9/6/2024,19503,30.66,Competitor Latop,18.5,1710,Negative feedback,7043,3.15
+672,35,7/14/2024,37954,28.04,Competitor Watch,16.42,1720,Very positive feedback,9498.55,1.58
+673,60,1/21/2023,39782,27.26,Competitor Latop,15.79,1876,Negative feedback,8304.24,4.02
+674,2,7/3/2024,33993,23.49,Competitor Latop,18.84,2014,Very positive feedback,7110.71,3.39
+675,67,10/9/2024,41640,28.3,Competitor Computer,19.02,1945,Mixed feedback,9867.11,1.44
+676,99,1/28/2024,49707,28.18,Competitor Watch,16.18,1817,Negative feedback,8864.89,3.16
+677,88,9/7/2024,30206,26.88,Competitor Latop,16.73,2008,Negative feedback,8408.87,4.97
+678,16,9/13/2023,15458,30.12,Competitor Computer,14.91,1652,Negative feedback,8843.93,4.19
+679,88,12/12/2023,13782,25.91,Competitor Computer,16.87,2028,Very positive feedback,7873.31,1.85
+680,56,8/28/2024,16637,30.01,Competitor Latop,17.05,2009,Very positive feedback,7472.62,4.87
+681,100,11/28/2023,32068,29.78,Competitor Phone,17.8,1854,Negative feedback,7604.17,1.96
+682,87,6/3/2024,41460,27.81,Competitor Phone,14.63,2112,Positive feedback,7617.06,3.35
+683,40,5/13/2024,28549,24.39,Competitor Computer,18.12,2146,Positive feedback,8929.01,3.28
+684,65,9/24/2023,10053,28.9,Competitor Phone,17.18,1653,Negative feedback,7152.34,4.08
+685,73,5/9/2023,39141,28,Competitor Watch,17.47,1897,Negative feedback,9884.86,3.09
+686,27,6/29/2023,32807,30.77,Competitor Computer,17,1831,Negative feedback,7171.3,4.57
+687,92,7/10/2023,23879,24.56,Competitor Phone,18.22,1725,Negative feedback,7412.93,4.89
+688,16,5/29/2024,33406,26.46,Competitor Watch,18.96,2020,Negative feedback,7101.75,4.31
+689,97,3/26/2023,31171,23.1,Competitor Phone,16.31,1763,Very positive feedback,7776.32,1.82
+690,46,8/18/2023,23372,23.15,Competitor Phone,17.53,1655,Positive feedback,8374.77,4.54
+691,47,12/24/2023,28874,26.92,Competitor Watch,15.49,1646,Negative feedback,8257.69,4.8
+692,34,8/6/2024,10937,29.6,Competitor Watch,17.2,2106,Mixed feedback,7290.71,4.3
+693,44,7/2/2023,41457,27.96,Competitor Computer,14.68,1901,Positive feedback,8668.4,4.7
+694,4,8/13/2023,45983,28.3,Competitor Latop,19.08,1600,Very positive feedback,8066.22,3.57
+695,33,6/19/2024,35783,27.65,Competitor Latop,17.76,1689,Very positive feedback,8148.77,2.47
+696,3,3/20/2024,16098,24.15,Competitor Phone,17.23,2145,Mixed feedback,7284.13,3.91
+697,16,3/14/2023,26199,28.33,Competitor Watch,16.51,2067,Negative feedback,9110.93,3.82
+698,94,4/12/2023,24883,29.11,Competitor Phone,19.14,1939,Positive feedback,7605.81,2.29
+699,3,9/10/2023,39438,27.67,Competitor Latop,15.16,1670,Very positive feedback,8666.59,1.71
+700,54,12/6/2023,31798,27.96,Competitor Computer,17.06,1994,Negative feedback,7378.86,3.7
+701,10,3/22/2023,43901,23.25,Competitor Latop,17.88,1685,Negative feedback,7678.32,3.45
+702,35,9/25/2023,32834,28.8,Competitor Latop,15.58,2135,Positive feedback,7247.05,3.7
+703,60,7/16/2023,28840,28.29,Competitor Latop,15.21,1798,Negative feedback,9300.59,2.27
+704,28,3/20/2024,14667,26.82,Competitor Computer,16.73,2189,Mixed feedback,9451.93,1.65
+705,58,1/25/2023,39906,23.29,Competitor Latop,19.21,1948,Very positive feedback,8838.04,2.82
+706,58,8/5/2024,17354,24.62,Competitor Watch,19.05,2060,Positive feedback,9821.3,3.96
+707,94,3/7/2024,10650,29.59,Competitor Phone,16.78,1944,Negative feedback,9802.65,4
+708,48,4/22/2023,22070,29.41,Competitor Computer,18.22,2089,Positive feedback,9083.01,3.63
+709,14,3/1/2024,42969,29.93,Competitor Computer,14.99,2111,Negative feedback,9445.21,1.1
+710,31,3/29/2023,41118,25.92,Competitor Computer,17.07,2066,Positive feedback,7644.18,1.5
+711,85,8/22/2023,33831,24.7,Competitor Watch,14.99,1924,Negative feedback,8335.76,1.16
+712,69,2/20/2023,25813,29.84,Competitor Computer,16.84,2062,Mixed feedback,8205.05,1.15
+713,39,10/28/2023,44582,24.71,Competitor Latop,16.59,1977,Mixed feedback,9026.4,4.99
+714,9,2/10/2023,27025,29.99,Competitor Computer,18.52,1815,Very positive feedback,7417.83,2.94
+715,83,10/9/2024,34778,30.94,Competitor Watch,16.85,1705,Negative feedback,8929.22,3.76
+716,25,4/26/2024,13798,29.82,Competitor Computer,19.01,2130,Negative feedback,8890.08,2.48
+717,59,9/18/2024,11509,27.51,Competitor Phone,16.82,1934,Negative feedback,7721.33,1.18
+718,9,5/24/2023,28575,27.03,Competitor Computer,19.04,1640,Mixed feedback,9357.36,4.53
+719,93,5/16/2024,40104,26.18,Competitor Watch,15.5,2116,Positive feedback,8745.15,4.33
+720,34,5/17/2024,17658,27.28,Competitor Latop,19.13,1659,Mixed feedback,7724.54,1.42
+721,25,8/4/2024,18476,30.24,Competitor Latop,19.14,1701,Very positive feedback,9415.72,2.93
+722,40,4/24/2023,42364,26.55,Competitor Phone,17.76,1664,Negative feedback,7701.58,2.91
+723,53,5/22/2023,42733,26.15,Competitor Latop,17.38,1674,Negative feedback,9520.84,1.93
+724,9,1/4/2024,34315,30.68,Competitor Latop,17.64,2117,Very positive feedback,8373.22,2.6
+725,97,9/12/2023,24452,26.51,Competitor Phone,18.72,1704,Negative feedback,8700.74,2.18
+726,14,5/7/2023,28730,23.55,Competitor Computer,15.1,1860,Mixed feedback,7386.64,1.89
+727,49,11/17/2023,31630,23.9,Competitor Computer,14.63,1896,Positive feedback,8441.9,1.66
+728,92,7/31/2024,48891,26.49,Competitor Computer,15.16,1941,Positive feedback,8419.17,4.25
+729,51,6/23/2024,16207,27.43,Competitor Watch,14.9,1621,Very positive feedback,7582.64,1.44
+730,56,6/21/2024,25831,30.92,Competitor Latop,17.9,1988,Mixed feedback,7118.62,2.47
+731,88,5/23/2024,44867,27.01,Competitor Computer,17.7,1930,Mixed feedback,9801.03,2.58
+732,6,8/17/2023,49122,27.84,Competitor Watch,19.2,1674,Positive feedback,9580.49,3.81
+733,24,10/5/2023,31676,25.36,Competitor Phone,18.42,1613,Mixed feedback,9505.46,1.99
+734,40,3/16/2023,47534,30.85,Competitor Watch,19.21,1880,Mixed feedback,8448.07,2.33
+735,34,1/20/2024,32902,25.62,Competitor Phone,15.82,1994,Mixed feedback,8663.78,1.71
+736,47,3/18/2023,31379,22.99,Competitor Phone,14.78,1804,Positive feedback,7877.57,4.7
+737,48,6/19/2023,43490,28.51,Competitor Computer,17.18,1732,Negative feedback,9516.24,1.54
+738,9,6/24/2023,29904,26.21,Competitor Latop,18.52,1953,Very positive feedback,8023.03,2.16
+739,97,3/1/2023,15243,29.03,Competitor Watch,19.01,2027,Mixed feedback,7728.73,4.5
+740,4,5/17/2024,15563,28.33,Competitor Latop,15.56,1901,Very positive feedback,9085.58,2.69
+741,7,11/23/2023,42697,29.4,Competitor Watch,17.61,2131,Positive feedback,8022.42,3.79
+742,17,6/21/2023,47087,29.39,Competitor Watch,15.24,1925,Very positive feedback,9286.7,3.17
+743,48,8/17/2024,13220,22.83,Competitor Latop,17.03,1948,Very positive feedback,9129.01,1.44
+744,60,11/9/2023,35818,25.59,Competitor Watch,17.87,2066,Positive feedback,8604.98,4.8
+745,42,11/27/2023,48886,27.56,Competitor Latop,16.88,2062,Negative feedback,7073.52,1.1
+746,52,10/24/2023,31675,22.95,Competitor Watch,17.07,1826,Very positive feedback,9756.65,3.02
+747,31,2/28/2023,34773,23.31,Competitor Latop,17.55,2003,Very positive feedback,8138.55,2.64
+748,61,5/20/2023,40586,27.92,Competitor Latop,15.3,2085,Very positive feedback,8121.25,3.97
+749,83,3/24/2024,18155,29.81,Competitor Latop,14.86,2192,Negative feedback,8936.58,2.95
+750,7,3/7/2024,39883,27.04,Competitor Latop,18.59,2179,Negative feedback,7208.61,1.91
+751,91,6/17/2023,25111,23.78,Competitor Latop,14.74,1624,Positive feedback,8887,4.69
+752,21,9/23/2024,43269,30.99,Competitor Phone,14.93,1820,Negative feedback,9115.94,4.42
+753,19,9/5/2024,17611,26.76,Competitor Phone,18.56,1777,Very positive feedback,7961.37,1.01
+754,92,5/27/2023,33625,23.38,Competitor Phone,19.23,1942,Very positive feedback,7499.11,1.73
+755,17,2/27/2024,44264,24.32,Competitor Computer,16.45,1792,Negative feedback,8744.16,3.13
+756,87,1/20/2023,25539,24.69,Competitor Phone,16.9,1885,Negative feedback,7337.54,4.8
+757,1,5/25/2023,25386,27.23,Competitor Phone,14.93,1649,Mixed feedback,9530.17,3.28
+758,6,6/24/2023,42781,27.88,Competitor Latop,14.93,2091,Negative feedback,8543.23,3
+759,76,8/20/2024,38085,24.09,Competitor Phone,16.54,2039,Positive feedback,9924.31,1.73
+760,87,5/25/2024,24640,28.84,Competitor Latop,18.14,1731,Mixed feedback,7588.06,4.61
+761,97,1/27/2024,30885,25.24,Competitor Latop,18.15,2038,Very positive feedback,8601.31,1.36
+762,89,5/29/2023,14938,30.49,Competitor Watch,17.17,2157,Negative feedback,7680.76,1.8
+763,78,7/13/2023,26786,29.92,Competitor Computer,15.25,2145,Positive feedback,9123.89,1.14
+764,36,9/27/2023,49793,23.94,Competitor Latop,18.98,1877,Negative feedback,9116.53,1.44
+765,52,9/29/2023,46160,29.91,Competitor Computer,18.28,1678,Negative feedback,7233.91,2.07
+766,90,2/25/2023,13766,29.36,Competitor Watch,15.66,1617,Negative feedback,7397.67,1.1
+767,99,1/15/2023,32801,26.49,Competitor Latop,14.66,2066,Very positive feedback,7645.7,1.89
+768,33,3/30/2023,16782,25.67,Competitor Latop,16.73,1916,Mixed feedback,9975.54,3.75
+769,24,8/25/2023,24473,28.75,Competitor Watch,18.27,1767,Positive feedback,8851.31,1.77
+770,34,12/16/2023,17132,30.08,Competitor Phone,18.84,1910,Positive feedback,7360.14,2.31
+771,1,12/23/2023,40925,23.92,Competitor Computer,15.68,1792,Mixed feedback,8469.57,4.39
+772,6,9/22/2024,49280,24.49,Competitor Watch,16.35,1707,Very positive feedback,9820.5,1.43
+773,100,10/18/2023,35419,25.66,Competitor Watch,16.35,1911,Very positive feedback,8264.13,2.76
+774,41,3/1/2023,29975,22.94,Competitor Computer,18.46,1992,Mixed feedback,7568.71,3.92
+775,87,5/5/2024,19310,24.16,Competitor Computer,17.71,1904,Mixed feedback,7562.5,1.33
+776,53,3/21/2024,24868,26.55,Competitor Phone,18.36,1633,Mixed feedback,9726.63,4.32
+777,13,7/27/2023,46697,24.6,Competitor Phone,18.71,1913,Positive feedback,8077.44,4.23
+778,45,2/1/2023,36029,24.97,Competitor Phone,16.62,1743,Positive feedback,9061.72,2.08
+779,70,2/10/2023,39806,23.07,Competitor Watch,16.94,1681,Mixed feedback,9698.14,1.76
+780,10,3/1/2024,30711,23.7,Competitor Watch,16.15,1824,Negative feedback,9786.33,1.93
+781,2,11/21/2023,26762,27.61,Competitor Computer,18.37,2003,Mixed feedback,7597.19,4.94
+782,51,4/20/2023,39452,24.13,Competitor Watch,15.19,2109,Mixed feedback,9434.63,4.72
+783,20,5/31/2024,25326,28.08,Competitor Latop,18.15,1936,Mixed feedback,9587.38,2.61
+784,35,8/13/2024,25881,24.18,Competitor Computer,17.11,2185,Very positive feedback,9725.3,4.54
+785,77,7/1/2023,20686,29.8,Competitor Latop,15.94,1814,Positive feedback,7109.1,1.91
+786,75,2/2/2023,47450,28.69,Competitor Watch,14.97,2165,Positive feedback,7671.5,3.1
+787,54,7/26/2023,14243,24.72,Competitor Watch,14.62,1884,Positive feedback,9761.24,1.03
+788,78,11/2/2023,39547,27.84,Competitor Phone,15.23,1709,Positive feedback,8682.01,1.74
+789,48,5/30/2024,49545,29.95,Competitor Watch,15.09,1635,Negative feedback,7551.87,2.59
+790,28,2/5/2023,26039,28.3,Competitor Watch,18.47,1969,Very positive feedback,9556.6,2.07
+791,77,6/18/2024,30836,30.37,Competitor Watch,15.41,1970,Very positive feedback,7215.85,1.13
+792,92,7/17/2023,46282,23.39,Competitor Phone,14.64,1752,Positive feedback,8057.33,4.58
+793,32,10/5/2024,29582,30.55,Competitor Phone,16.49,1696,Mixed feedback,9390.57,2.05
+794,3,9/24/2024,20662,24.74,Competitor Computer,17.11,1876,Mixed feedback,9774.85,2.14
+795,45,9/20/2023,35695,28.56,Competitor Computer,14.53,1827,Negative feedback,9258.96,2.9
+796,84,6/13/2024,28497,27.62,Competitor Latop,17.24,2036,Mixed feedback,8190.28,3.31
+797,53,11/17/2023,40329,26.45,Competitor Computer,15,1767,Very positive feedback,7812.56,4.86
+798,32,6/11/2023,42731,30.01,Competitor Computer,19.09,1740,Negative feedback,9952.59,3.79
+799,97,11/1/2023,26884,30.27,Competitor Watch,16.26,1616,Positive feedback,7189.31,4.77
+800,65,6/9/2024,30740,27.37,Competitor Watch,15.51,2069,Very positive feedback,7589.06,4.3
+801,79,6/29/2023,46608,27.34,Competitor Watch,14.58,2040,Very positive feedback,8656.6,1.16
+802,88,1/28/2023,10422,24.64,Competitor Phone,18.33,2056,Positive feedback,8975.84,2.49
+803,55,6/17/2023,37959,28.32,Competitor Latop,18.04,1741,Very positive feedback,7071.52,3.17
+804,38,5/26/2023,39906,26.32,Competitor Phone,16.58,2052,Very positive feedback,9582.84,1.58
+805,68,6/23/2024,11548,24.06,Competitor Phone,16.29,2076,Mixed feedback,8656.35,4.09
+806,64,3/9/2024,11144,23.95,Competitor Latop,16.77,1809,Positive feedback,8343.99,3.14
+807,68,8/9/2024,27060,27.84,Competitor Latop,15.26,1712,Negative feedback,7359.89,1.49
+808,91,8/19/2024,33806,27.5,Competitor Phone,17.49,1931,Positive feedback,9621.26,4.12
+809,6,5/12/2023,39559,25.5,Competitor Computer,15.12,1920,Negative feedback,7933.69,3.23
+810,74,10/8/2023,39602,22.98,Competitor Phone,18.47,1822,Very positive feedback,7969.61,4.45
+811,64,2/13/2023,29533,25.78,Competitor Computer,16.86,1953,Negative feedback,8894.52,3.44
+812,28,5/4/2023,37626,23.07,Competitor Phone,16.53,2062,Very positive feedback,9566.73,3.15
+813,94,3/5/2024,44307,26.26,Competitor Phone,16.69,2116,Mixed feedback,8157,2.02
+814,25,12/29/2023,30654,24.12,Competitor Computer,16.86,1852,Negative feedback,9342.42,2.47
+815,3,7/25/2024,34703,26.63,Competitor Watch,19.03,1912,Negative feedback,7959.8,2.76
+816,23,6/26/2024,13078,28.49,Competitor Phone,17.38,1701,Positive feedback,8450.64,1.02
+817,24,10/9/2024,26473,26.13,Competitor Latop,19.08,2194,Very positive feedback,8892.21,4.76
+818,59,7/15/2024,22014,23.96,Competitor Latop,16.85,1648,Negative feedback,9248.38,4.65
+819,47,12/13/2023,43008,24.38,Competitor Watch,15,1634,Very positive feedback,7832.55,4.12
+820,88,12/2/2023,41376,28.01,Competitor Computer,15.3,1918,Mixed feedback,8949.76,2.9
+821,100,7/28/2023,20110,28.8,Competitor Latop,18.08,1822,Positive feedback,7725,4.95
+822,10,5/30/2023,16869,23.24,Competitor Watch,17.21,1638,Positive feedback,7859.99,2.02
+823,29,7/23/2024,18765,30.14,Competitor Latop,15.54,2085,Mixed feedback,7870.27,4.76
+824,76,4/9/2023,37246,27.98,Competitor Phone,18.69,2173,Positive feedback,9005.14,2.42
+825,87,2/13/2023,18336,24.7,Competitor Latop,17.63,1637,Positive feedback,9840.06,1.47
+826,24,1/15/2024,27608,28.5,Competitor Watch,18.45,1991,Very positive feedback,7873.17,4.75
+827,90,11/27/2023,20623,29.51,Competitor Latop,14.83,2064,Positive feedback,7833.66,1.47
+828,71,4/28/2024,19861,29.65,Competitor Computer,16.76,1613,Positive feedback,9824.12,3.59
+829,25,1/25/2024,23415,24.53,Competitor Phone,14.64,1752,Mixed feedback,7130.3,4.87
+830,32,3/26/2023,22295,27.06,Competitor Computer,19.03,2006,Positive feedback,7127.53,4.34
+831,35,6/29/2024,37356,30.06,Competitor Latop,18.68,2156,Mixed feedback,9853.35,4.5
+832,54,5/30/2023,12771,25.87,Competitor Phone,17.45,2181,Mixed feedback,7850.46,4.84
+833,45,11/14/2023,33781,24.15,Competitor Phone,19.24,1764,Very positive feedback,7703.89,3.11
+834,93,10/7/2023,14149,24.4,Competitor Watch,17.48,1804,Mixed feedback,8731.31,4.07
+835,70,3/20/2024,47388,23.59,Competitor Phone,18.41,2086,Mixed feedback,9417.12,2.72
+836,31,9/10/2023,19986,23.83,Competitor Computer,16.91,2036,Positive feedback,9144.19,1.97
+837,98,7/27/2023,29697,30.11,Competitor Latop,18.42,1856,Positive feedback,8076.89,1.22
+838,90,2/2/2023,33557,28.3,Competitor Watch,15.2,2191,Negative feedback,7670.35,3.16
+839,43,3/17/2024,29383,30.35,Competitor Latop,17.22,2143,Positive feedback,7867.26,4.74
+840,10,7/17/2024,26177,23.6,Competitor Latop,17.43,1744,Mixed feedback,9091.23,4.71
+841,65,5/22/2024,35887,27.83,Competitor Watch,18.2,1994,Mixed feedback,8607.29,3.84
+842,53,9/2/2024,46787,23.8,Competitor Latop,17.22,1936,Negative feedback,9558.91,3.36
+843,71,12/25/2023,35173,28.88,Competitor Latop,14.8,2138,Very positive feedback,7923.73,4.41
+844,21,3/12/2024,39796,30.16,Competitor Watch,16.68,1780,Negative feedback,9447.26,1.41
+845,55,4/19/2023,44447,30.05,Competitor Computer,14.87,1738,Very positive feedback,7504.29,4.36
+846,69,5/25/2023,24288,26.24,Competitor Latop,16.86,1785,Mixed feedback,8253.31,3.58
+847,95,2/9/2024,12700,29.53,Competitor Watch,17.15,2060,Negative feedback,8687.97,3.33
+848,74,5/31/2024,21861,24.61,Competitor Computer,16.94,1608,Negative feedback,9582.97,3.65
+849,23,7/12/2023,27106,29.78,Competitor Watch,16.86,1986,Very positive feedback,9173.74,1.33
+850,41,9/12/2023,41304,29.84,Competitor Phone,16.66,1613,Mixed feedback,9459.09,2.18
+851,8,5/4/2023,15820,29.42,Competitor Computer,15.42,1786,Mixed feedback,8449.67,2.26
+852,99,2/15/2023,38843,28.08,Competitor Phone,18.65,2143,Negative feedback,7126.26,3.66
+853,69,2/15/2023,27689,24.16,Competitor Phone,15.16,1726,Positive feedback,8399.62,1.22
+854,98,3/24/2023,43237,28.09,Competitor Latop,15.26,1652,Negative feedback,7965.59,1.52
+855,27,4/24/2024,42701,24.95,Competitor Watch,17.22,1611,Very positive feedback,9926.35,4.67
+856,65,8/30/2024,22053,30.98,Competitor Latop,15.57,2009,Positive feedback,7128.96,4.11
+857,46,1/18/2023,30966,25.14,Competitor Latop,17.93,2013,Negative feedback,9541.02,2.41
+858,96,5/11/2024,33747,23.33,Competitor Watch,16.32,1625,Very positive feedback,8326.08,2.84
+859,76,9/29/2024,47578,27.28,Competitor Phone,16.99,2080,Very positive feedback,7113.02,4.17
+860,12,4/30/2023,38157,29.93,Competitor Latop,17.4,1625,Very positive feedback,9353.42,3.13
+861,63,6/25/2024,17040,26.75,Competitor Latop,19.02,1680,Mixed feedback,7461.03,4.95
+862,16,4/28/2023,23363,27.29,Competitor Phone,15.31,2096,Negative feedback,9624.71,2.37
+863,100,10/9/2024,10751,27.78,Competitor Computer,18.16,2175,Positive feedback,7215.79,4.67
+864,81,9/8/2023,48042,27.61,Competitor Latop,17.87,1608,Mixed feedback,8118.02,2.28
+865,57,5/20/2024,22842,29.72,Competitor Latop,15.92,1652,Negative feedback,8693.75,4.31
+866,23,6/28/2024,20100,28.31,Competitor Watch,19.16,1704,Very positive feedback,8828.1,2.74
+867,65,7/25/2024,37858,24.84,Competitor Computer,15.39,1765,Mixed feedback,8953.96,2.87
+868,43,10/26/2023,13374,23.51,Competitor Watch,14.99,2169,Negative feedback,9214.04,4
+869,92,12/10/2023,21848,28.92,Competitor Latop,17.63,1857,Positive feedback,8349.05,4.75
+870,45,10/27/2023,16372,26.5,Competitor Phone,16.9,1697,Very positive feedback,8964.07,4.07
+871,70,6/30/2024,26450,29.95,Competitor Watch,18.27,2133,Negative feedback,7081.91,3.04
+872,72,10/24/2023,14124,24.22,Competitor Latop,17.48,1877,Mixed feedback,9209.68,3.13
+873,63,8/17/2024,12284,28.68,Competitor Watch,15.23,1604,Mixed feedback,9999.79,1.91
+874,10,3/14/2023,48416,25.52,Competitor Latop,15.9,1849,Positive feedback,7900.53,4.7
+875,90,9/14/2024,34558,28.85,Competitor Phone,15.82,2072,Positive feedback,9967.79,4.23
+876,45,5/16/2023,16334,25.9,Competitor Phone,17.4,1822,Positive feedback,7327.96,4.15
+877,37,8/11/2023,17806,28.03,Competitor Phone,14.52,1904,Negative feedback,9606.73,2.56
+878,30,7/13/2023,49934,29.26,Competitor Latop,18.68,1915,Positive feedback,9947.8,4.21
+879,51,4/6/2024,12141,27.79,Competitor Phone,15.78,1963,Positive feedback,9670.29,1
+880,63,9/18/2024,33443,27.42,Competitor Phone,16.28,2066,Mixed feedback,7649.36,1.68
+881,29,1/19/2023,31063,22.92,Competitor Computer,17.75,1960,Very positive feedback,7994.4,2.81
+882,62,10/1/2024,29994,27.02,Competitor Watch,15.72,1855,Very positive feedback,9251.65,3.9
+883,25,7/28/2024,36366,23.62,Competitor Watch,18.75,1788,Very positive feedback,7533.92,2.38
+884,34,12/25/2023,32139,25.87,Competitor Phone,17.93,1849,Mixed feedback,9564.42,2.75
+885,86,3/4/2023,42535,25.04,Competitor Computer,15.07,1959,Very positive feedback,9048.57,4.57
+886,52,6/4/2024,32770,27.97,Competitor Latop,17.65,1749,Very positive feedback,9500.09,2.39
+887,90,10/30/2023,22910,26.17,Competitor Computer,17.01,2035,Negative feedback,7682.7,4.58
+888,56,3/25/2023,15582,24.81,Competitor Latop,17.72,1749,Positive feedback,7776.22,3.22
+889,70,3/20/2023,26807,22.96,Competitor Computer,16.95,2189,Negative feedback,7606.7,1.2
+890,41,1/13/2024,14903,28.16,Competitor Computer,17.94,1829,Very positive feedback,7616.17,3.75
+891,66,2/25/2023,41845,24.17,Competitor Computer,17.64,1874,Very positive feedback,8510.01,4.71
+892,67,4/30/2023,45209,26.3,Competitor Phone,16.74,2127,Negative feedback,7493.6,4.87
+893,14,5/17/2023,20535,27.37,Competitor Phone,15.44,1629,Negative feedback,8089.81,4.58
+894,64,6/29/2024,48061,24.5,Competitor Watch,18.1,2108,Mixed feedback,7957.31,3.35
+895,70,2/6/2024,11646,26.29,Competitor Watch,16.95,1903,Positive feedback,9658.74,3.63
+896,33,11/11/2023,23914,26.57,Competitor Latop,15.37,2083,Positive feedback,7995.4,2.24
+897,10,12/17/2023,40677,28.67,Competitor Watch,15.49,2062,Very positive feedback,7702.21,3.05
+898,4,8/2/2024,11714,24.69,Competitor Latop,16.27,1949,Mixed feedback,7544.89,4.54
+899,33,7/2/2024,25168,29.87,Competitor Computer,18.67,1798,Very positive feedback,8997.61,2.76
+900,15,1/23/2023,25665,28.1,Competitor Latop,15.57,1982,Positive feedback,8798.34,1.73
+901,19,7/19/2023,23965,25.63,Competitor Watch,15.96,2037,Positive feedback,7972.69,4.9
+902,61,3/1/2024,19513,23.55,Competitor Computer,16.54,1990,Negative feedback,8484.57,1.95
+903,84,1/17/2023,14927,27.1,Competitor Computer,15.34,1726,Very positive feedback,7048.5,2.93
+904,61,7/19/2023,48768,26.95,Competitor Watch,15.77,1855,Positive feedback,8807.5,4.39
+905,57,5/27/2024,26500,29.3,Competitor Watch,17.84,1792,Negative feedback,7092.14,2.16
+906,40,2/22/2024,19396,27.34,Competitor Watch,17.89,1727,Positive feedback,8803.48,2.99
+907,98,6/20/2024,14429,23.25,Competitor Watch,17.93,1825,Positive feedback,9320.62,3.88
+908,75,9/5/2023,18018,27.25,Competitor Phone,15.11,1731,Negative feedback,8974.71,1.73
+909,34,8/8/2024,17200,29.06,Competitor Watch,18.6,2118,Positive feedback,7992.5,1.64
+910,88,1/27/2024,34077,27.02,Competitor Latop,14.88,1999,Negative feedback,7507.03,2.61
+911,60,3/26/2023,30261,24.42,Competitor Watch,16.22,1860,Very positive feedback,9140.54,3.89
+912,55,12/2/2023,22343,25.76,Competitor Latop,17.54,2101,Negative feedback,8034.42,2.63
+913,99,2/8/2024,16355,29.97,Competitor Watch,15.4,1631,Positive feedback,7999.55,3.74
+914,55,7/21/2024,41524,26.34,Competitor Computer,18.65,1732,Mixed feedback,9435.64,1.39
+915,6,10/7/2023,11568,28.54,Competitor Watch,17.05,1760,Very positive feedback,9373.81,1.56
+916,35,9/18/2024,44418,30.54,Competitor Latop,19.13,1776,Very positive feedback,7197.06,1.63
+917,5,7/7/2024,42568,27.26,Competitor Computer,18.01,2128,Very positive feedback,7647.91,2.17
+918,10,3/11/2024,18041,24.24,Competitor Phone,16.71,1724,Very positive feedback,9736.01,2.5
+919,83,10/3/2023,31638,26.65,Competitor Computer,17.41,1823,Mixed feedback,9199.78,3.27
+920,57,10/21/2023,38029,25.33,Competitor Watch,16.81,2173,Mixed feedback,9817.21,4.6
+921,60,1/10/2024,42968,28.93,Competitor Phone,18.36,2071,Mixed feedback,9295.73,4
+922,24,7/3/2024,32644,24.8,Competitor Computer,15.32,1600,Very positive feedback,8600.05,3.66
+923,41,5/25/2023,47698,26.52,Competitor Watch,14.94,1796,Mixed feedback,8844.01,1.11
+924,21,3/30/2023,13351,26.5,Competitor Phone,15.96,2090,Mixed feedback,7016.23,1.84
+925,77,7/14/2024,33605,29.67,Competitor Watch,15.25,1748,Negative feedback,7536.01,1.29
+926,95,2/5/2024,41847,27.43,Competitor Computer,16.94,1812,Very positive feedback,7222.86,3.84
+927,12,8/27/2023,42212,26,Competitor Phone,14.61,1984,Negative feedback,7660.92,2.96
+928,89,5/19/2023,49051,30.47,Competitor Computer,16,1912,Positive feedback,7403.09,3.93
+929,7,2/18/2023,17433,26.56,Competitor Latop,18,1958,Very positive feedback,9339.45,3.95
+930,17,10/7/2023,38513,24.44,Competitor Latop,16.27,1631,Negative feedback,8645.6,4.84
+931,65,6/13/2023,28356,22.89,Competitor Computer,16.8,2179,Negative feedback,9176.28,4.35
+932,35,12/28/2023,38050,30.96,Competitor Latop,18.83,1776,Positive feedback,9483.34,1.06
+933,84,5/5/2024,12754,27.63,Competitor Phone,17.49,1685,Negative feedback,7975.75,2.99
+934,26,9/13/2024,13020,30.38,Competitor Latop,18.06,2011,Mixed feedback,9190.36,1.87
+935,71,6/20/2024,49652,24.61,Competitor Watch,15.62,1914,Mixed feedback,8750.41,1.2
+936,25,12/8/2023,25559,25.17,Competitor Watch,17.35,1600,Positive feedback,8521.71,4.79
+937,96,11/6/2023,49818,24.12,Competitor Computer,18.83,1816,Negative feedback,9129.75,1.01
+938,83,7/21/2024,48601,23.1,Competitor Watch,16.82,1806,Very positive feedback,8284.58,3.75
+939,9,4/12/2023,25273,29.34,Competitor Computer,17.97,1859,Mixed feedback,9132.5,3.99
+940,13,7/22/2023,34835,25.69,Competitor Computer,16.01,1996,Negative feedback,9320.08,2.86
+941,47,7/21/2024,40051,24.54,Competitor Phone,16.57,1643,Positive feedback,7348.47,2.29
+942,68,11/1/2023,40183,26.68,Competitor Phone,16.95,2128,Mixed feedback,8756.59,3.64
+943,49,4/11/2023,38613,26.54,Competitor Computer,15.17,1707,Mixed feedback,7432.16,3.42
+944,72,3/10/2024,11054,30.57,Competitor Latop,18.56,1800,Mixed feedback,8765.59,4.76
+945,59,8/4/2024,34374,25.56,Competitor Phone,15.06,1645,Mixed feedback,9587.59,2.21
+946,35,10/14/2023,29826,25.92,Competitor Watch,15.07,2013,Positive feedback,9709.6,4.6
+947,32,7/5/2023,21426,23.61,Competitor Phone,18.45,1708,Mixed feedback,9599.8,2.89
+948,55,3/23/2024,12262,26.58,Competitor Latop,15.54,1735,Mixed feedback,9999.27,1.62
+949,98,7/11/2023,17367,25.77,Competitor Phone,16.7,1860,Mixed feedback,9971.5,3.54
+950,1,7/25/2023,12596,24.25,Competitor Latop,16.75,1979,Positive feedback,7523.72,4.02
+951,10,1/26/2023,42183,28.79,Competitor Phone,17.84,1837,Mixed feedback,8384.6,2.92
+952,46,1/20/2024,47317,28.28,Competitor Phone,18.57,1975,Negative feedback,7886.1,3.74
+953,47,2/26/2024,46693,30.48,Competitor Computer,16.23,1933,Very positive feedback,8689.22,3.04
+954,35,3/15/2023,44380,24,Competitor Computer,18.32,1981,Negative feedback,9432.27,2.45
+955,53,8/7/2023,45159,27.77,Competitor Watch,17.79,1660,Very positive feedback,7896.15,3.96
+956,54,3/7/2024,33648,24.31,Competitor Watch,18.73,2069,Positive feedback,7470.95,3.75
+957,51,5/20/2024,41501,30.92,Competitor Watch,17.56,1953,Positive feedback,7750.06,3.5
+958,50,7/19/2024,47130,30.95,Competitor Watch,14.64,1835,Mixed feedback,8804.18,3.08
+959,59,7/1/2024,30370,27.49,Competitor Latop,15.36,2026,Positive feedback,8372.89,3.87
+960,76,4/3/2024,35746,30.73,Competitor Latop,16.76,2022,Negative feedback,8722.16,1.88
+961,92,1/24/2024,24164,22.81,Competitor Computer,18.11,1901,Negative feedback,7910.17,1.31
+962,42,8/14/2024,10434,30.06,Competitor Phone,14.95,1999,Negative feedback,8377.17,4.44
+963,38,3/20/2023,48429,25.68,Competitor Computer,18.34,1861,Mixed feedback,9649.99,2.06
+964,72,4/4/2024,13897,23.24,Competitor Phone,17.77,2151,Mixed feedback,7706.8,1.79
+965,79,6/3/2023,10343,29.74,Competitor Watch,17.22,2160,Mixed feedback,9861.77,2.21
+966,65,6/19/2023,21069,23.42,Competitor Watch,17.56,1638,Positive feedback,7384.04,2.74
+967,53,12/20/2023,48545,30.54,Competitor Watch,15.09,1658,Positive feedback,8528.53,4.99
+968,42,7/19/2023,16772,30.19,Competitor Latop,15.37,2066,Negative feedback,8429.67,1.32
+969,46,10/9/2023,31076,28.34,Competitor Latop,19.17,1810,Positive feedback,8461.62,2.8
+970,19,3/25/2024,49008,24.96,Competitor Latop,15.16,1888,Very positive feedback,8962.8,3.99
+971,57,7/18/2023,31100,25.85,Competitor Phone,15.95,2108,Very positive feedback,8187.58,2.35
+972,84,10/22/2023,46607,24.75,Competitor Watch,15.83,1845,Negative feedback,8103.53,4.99
+973,28,3/28/2023,16814,25.3,Competitor Computer,17.47,2148,Negative feedback,8377.24,3.21
+974,57,2/18/2023,41078,29.61,Competitor Watch,15.86,1735,Positive feedback,7217.52,4.6
+975,5,7/16/2023,14424,26.12,Competitor Latop,14.84,1852,Negative feedback,9554.75,1.13
+976,91,5/17/2023,40631,29.99,Competitor Computer,18.94,1802,Positive feedback,8385.93,4.74
+977,77,7/24/2023,38176,23.44,Competitor Phone,18.36,1648,Positive feedback,8851.31,3.25
+978,73,4/10/2023,18425,25.32,Competitor Latop,18.05,1896,Mixed feedback,7933.17,2.67
+979,57,12/31/2023,25227,28.23,Competitor Computer,15.12,2079,Very positive feedback,8561.15,4.48
+980,59,5/14/2023,18663,29.18,Competitor Computer,18.93,2073,Positive feedback,7002.29,4.72
+981,1,3/24/2024,21735,24.97,Competitor Latop,17.19,1797,Mixed feedback,9921.34,2.63
+982,31,2/25/2023,41366,23,Competitor Latop,16.15,2120,Very positive feedback,9900.5,4.88
+983,35,5/9/2023,43464,26.37,Competitor Latop,15.56,1662,Mixed feedback,9788.87,1.47
+984,44,4/16/2023,33013,29.64,Competitor Latop,15.87,1604,Very positive feedback,9533.57,3.26
+985,14,4/21/2024,13248,29.1,Competitor Computer,15.18,1788,Negative feedback,9589.78,3.76
+986,65,1/21/2024,28667,29.42,Competitor Phone,17.36,1961,Very positive feedback,9165.95,3.01
+987,18,2/16/2023,32644,24.9,Competitor Computer,17.81,1779,Positive feedback,7023.82,3.54
+988,85,8/11/2023,41871,27.61,Competitor Watch,17.5,2076,Negative feedback,8275.49,1.29
+989,25,6/21/2023,16497,29.92,Competitor Latop,15.96,1770,Negative feedback,8805.93,2.66
+990,13,2/5/2024,33333,29.48,Competitor Computer,17.95,1876,Very positive feedback,9028.1,4.52
+991,31,7/7/2024,35650,29.32,Competitor Latop,18.26,1632,Mixed feedback,8540.99,3.54
+992,9,3/8/2024,29577,22.93,Competitor Phone,19,1748,Mixed feedback,8641.69,2.92
+993,57,4/9/2024,12302,28.85,Competitor Computer,16.37,1666,Negative feedback,8935.68,3.93
+994,6,12/28/2023,13398,28.8,Competitor Computer,17.68,1687,Positive feedback,7115.48,4.47
+995,52,6/1/2023,44859,25.3,Competitor Latop,16.89,1872,Very positive feedback,7274.58,3.9
+996,36,4/8/2024,49968,30.42,Competitor Latop,16.43,2127,Negative feedback,8898.8,1.5
+997,45,8/7/2023,22265,27.93,Competitor Watch,18.77,2001,Positive feedback,7200.1,2.71
+998,28,11/16/2023,47423,29.97,Competitor Latop,18.22,2055,Mixed feedback,8466.43,2.36
+999,24,11/16/2023,25782,27.85,Competitor Phone,16.93,2079,Positive feedback,9981.09,2.01
+1000,27,3/11/2024,21002,30.54,Competitor Phone,18.54,1977,Positive feedback,7422.03,2.11
